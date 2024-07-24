@@ -4,6 +4,11 @@ permalink: /example-page/
 variant: tiptap
 ---
 <h4><strong>INTRODUCING THE ETHICS AND COMPLIANCE ONLINE SYSTEM&nbsp;(ECOS)</strong><br>&nbsp;</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ECOS Logo/ECOS_Logo_Sm.jpg">
+</div>
+<p></p>
 <p>The <strong>Ethics and Compliance Online System (ECOS)</strong> is the new
 ethics review infrastructure that is co-developed by NHG and SingHealth.
 Launched on 10 May 2024, the ECOS system replaces the previous NHG ROAM
