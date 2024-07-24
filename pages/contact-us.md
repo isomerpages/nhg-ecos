@@ -39,7 +39,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://for.sg/ecos-support-request
-    title: For Non-Public Healthcare Institution Users
+      - other: <p>For Non-Public Healthcare Institution&nbsp;Users, please submit your
+          ECOS Support Request here:&nbsp;<a target="_blank"
+          href="https://for.sg/ecos-support-request">https://for.sg/ecos-support-request</a>&nbsp;</p>
+    title: For Non-PHI Users
 feedback: ""
 ---
