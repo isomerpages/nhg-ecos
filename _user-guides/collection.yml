@@ -2,6 +2,6 @@ collections:
   user-guides:
     output: true
     order:
-      - General Guides.md
+      - General Functions.md
       - Institution & Department Representatives (IR & DR).md
       - Ethics Submissions.md
