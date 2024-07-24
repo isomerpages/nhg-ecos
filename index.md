@@ -12,7 +12,9 @@ sections:
       background: /images/hero-banner.png
       dropdown:
         title: Hero Dropdown Title
-        options: []
+        options:
+          - title: Contact ECOS Technical Support
+            url: /contact-us/
       variant: floating
       backgroundColor: gray
       size: md
