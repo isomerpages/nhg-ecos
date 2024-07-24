@@ -1,7 +1,7 @@
 logo: /images/ECOS Logo/ECOS_Logo_Sm.jpg
 links:
-  - title: Example Page
-    url: /example-page/
+  - title: About ECOS
+    url: /abt-ecos/
   - title: Example Folder
     collection: example-folder
   - title: ECOS Login
