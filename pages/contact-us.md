@@ -37,8 +37,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "Please submit an ECOS Support Request using this online form here:
-          https://for.sg/ecos-support-request"
+      - other: https://for.sg/ecos-support-request
     title: For Non-Public Healthcare Institution Users
 feedback: ""
 ---
