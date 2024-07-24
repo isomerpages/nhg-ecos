@@ -1,12 +1,8 @@
 logo: /images/ECOS Logo/ECOS_Logo_Sm.jpg
 links:
-  - title: About ECOS
-    url: /abt-ecos/
   - title: About Us
     collection: about-us
   - title: ECOS Login
     url: https://www.ecos-research.com.sg/login
   - title: Contact Us
     url: /contact-us/
-  - title: New folder
-    collection: about-us
