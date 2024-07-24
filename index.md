@@ -14,6 +14,15 @@ sections:
       backgroundColor: gray
       size: md
       alignment: left
+      dropdown:
+        title: Shortcuts
+        options:
+          - title: Login to ECOS
+            url: https://www.ecos-research.com.sg/login
+          - title: ECOS User Guides
+            url: /user-guides/
+          - title: Contact ECOS Technical Support
+            url: /contact-us/
   - announcements:
       title: Announcements
       id: announcements
