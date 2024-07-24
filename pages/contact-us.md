@@ -29,7 +29,7 @@ contacts:
           style="color:#c0392b"><strong>BEFORE</strong></span>&nbsp;emailing the
           Form to your Institution ITD Helpdesk to log an ECOS Support
           Request.</p>
-    title: IMPORTANT
+    title: "* IMPORTANT"
   - content:
       - phone: ""
       - email: ""
