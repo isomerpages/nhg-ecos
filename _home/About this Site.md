@@ -13,5 +13,5 @@ the ECOS System to prepare and submit their research ethics applications
 to the NHG Domain Specific Review Board (NHG-DSRB).</p>
 <p></p>
 <p>This website is being maintained by the Office of Human Research Protection
-Programme (OHRPP), NHG Group Research &amp; Innovation.</p>
+Programme (OHRPP), a unit of NHG Group Research &amp; Innovation.</p>
 <p></p>
