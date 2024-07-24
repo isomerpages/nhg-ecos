@@ -19,5 +19,11 @@ contacts:
       - email: it.helpdesk@singhealth.com.sg
       - other: Please contact your Institution ITD Helpdesk to log a Support Request.
     title: For SingHealth Staff
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Please submit an ECOS Support Request using this online form here:
+          https://for.sg/ecos-support-request"
+    title: For Non-Public Healthcare Institution Users
 feedback: ""
 ---
