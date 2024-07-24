@@ -14,5 +14,10 @@ contacts:
       - email: ITDHELP@nuhs.edu.sg
       - other: Please contact your Institution ITD Helpdesk to log a Support Request.
     title: For NUHS Staff
+  - content:
+      - phone: ""
+      - email: it.helpdesk@singhealth.com.sg
+      - other: Please contact your Institution ITD Helpdesk to log a Support Request.
+    title: For SingHealth Staff
 feedback: ""
 ---
