@@ -11,10 +11,12 @@ sections:
       subtitle: Welcome to the ECOS End-User Support Site for NHG & NUHS Staff
       background: /images/hero-banner.png
       dropdown:
-        title: Hero Dropdown Title
+        title: Shortcuts
         options:
           - title: Contact ECOS Technical Support
             url: /contact-us/
+          - title: ECOS User Guides
+            url: /user-guides/
       variant: floating
       backgroundColor: gray
       size: md
