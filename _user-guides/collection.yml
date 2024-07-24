@@ -2,6 +2,6 @@ collections:
   user-guides:
     output: true
     order:
-      - Ethics Submissions.md
       - General Guides.md
       - For Institution & Department Representatives (IR & DR).md
+      - Ethics Submissions.md
