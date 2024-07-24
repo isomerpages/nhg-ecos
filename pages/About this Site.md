@@ -4,14 +4,14 @@ permalink: /about-this-site/
 variant: tiptap
 description: ""
 ---
-<p>About this Site - NHG ECOS End-User Support</p>
+<p><strong>About this Site - NHG ECOS End-User Support</strong>
+</p>
 <p></p>
 <p>The NHG ECOS End-User Support website is intended to provide NHG &amp;
-NUHS Staff with information and general support about the ECOS system,
-and how ECOS interacts with the NHG Domain Specific Review Boards (NHG-DSRB)
-for research ethics submissions.</p>
+NUHS Staff with information about the ECOS system, and how Staff may use
+the ECOS System to prepare and submit their research ethics applications
+to the NHG Domain Specific Review Board (NHG-DSRB).</p>
 <p></p>
-<p>This website is being updated by Staff from NHG DSRB.</p>
+<p>This website is being maintained by the Office of Human Research Protection
+Programme (OHRPP), NHG Group Research &amp; Innovation.</p>
 <p></p>
-<p>If you require Technical Assistance for the ECOS system, please see here
-for more information.</p>
