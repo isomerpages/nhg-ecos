@@ -12,7 +12,7 @@ contacts:
   - content:
       - phone: ""
       - email: ITDHELP@nuhs.edu.sg
-      - other: Please contact your Institution ITD Helpdesk to log a Support Request.
+      - other: ""
     title: For NUHS Staff
   - content:
       - phone: ""
