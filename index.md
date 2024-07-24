@@ -10,15 +10,6 @@ sections:
       title: NHG-ECOS End User Support
       subtitle: Welcome to the ECOS End-User Support Site for NHG & NUHS Staff
       background: /images/hero-banner.png
-      dropdown:
-        title: Shortcuts
-        options:
-          - title: Contact ECOS Technical Support
-            url: /contact-us/
-          - title: ECOS User Guides
-            url: /user-guides/
-          - title: Login to ECOS
-            url: https://www.ecos-research.com.sg/login
       variant: floating
       backgroundColor: gray
       size: md
