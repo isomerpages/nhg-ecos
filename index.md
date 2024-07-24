@@ -4,7 +4,7 @@ title: NHG ECOS End-User Support Site
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: NHG-ECOS End User Support
@@ -13,6 +13,10 @@ sections:
       dropdown:
         title: Hero Dropdown Title
         options: []
+      variant: floating
+      backgroundColor: gray
+      size: md
+      alignment: left
   - announcements:
       title: Announcements
       id: announcements
