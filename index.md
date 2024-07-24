@@ -15,7 +15,7 @@ sections:
       size: md
       alignment: left
       dropdown:
-        title: Shortcuts
+        title: Shortcuts...
         options:
           - title: Login to ECOS
             url: https://www.ecos-research.com.sg/login
