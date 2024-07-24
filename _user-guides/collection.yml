@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - General Guides.md
-      - For Institution & Department Representatives (IR & DR).md
+      - Institution & Department Representatives (IR & DR).md
       - Ethics Submissions.md
