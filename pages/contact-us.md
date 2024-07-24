@@ -26,4 +26,15 @@ contacts:
           https://for.sg/ecos-support-request"
     title: For Non-Public Healthcare Institution Users
 feedback: ""
+locations:
+  - address:
+      - ""
+      - ""
+      - ""
+    title: ECOS Helpdesk
+    operating_hours:
+      - days: Monday to Friday
+        time: 9am - 1pm.  2pm-5pm
+        description: ""
+    maps_link: ""
 ---
