@@ -11,13 +11,8 @@ contacts:
     title: For NHG Staff
   - content:
       - phone: ""
-      - email: ITDHELP@nhg.com.sg
-      - other: Please contact your Institution ITD Helpdesk to log a Support Request.
-    title: For NHG Staff (PHI User)
-  - content:
-      - phone: ""
       - email: ITDHELP@nuhs.edu.sg
       - other: Please contact your Institution ITD Helpdesk to log a Support Request.
-    title: For NUHS Staff (PHI User)
+    title: For NUHS Staff
 feedback: ""
 ---
