@@ -7,7 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: ITDHELP@nhg.com.sg
-      - other: Please contact your Institution ITD Helpdesk to log a Support Request.
+      - other: ""
     title: For NHG Staff
   - content:
       - phone: ""
