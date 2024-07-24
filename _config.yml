@@ -53,6 +53,6 @@ staging: https://staging-lite.d9s6mvluwe7pm.amplifyapp.com
 prod: https://master.d2cs9ly6lkgkcv.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: true
+is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
