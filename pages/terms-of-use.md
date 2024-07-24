@@ -4,7 +4,6 @@ permalink: /terms-of-use/
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <p><strong>TERMS OF USE</strong>
 </p>
 <p><strong>NHG does not warrant or represent that your use of this Site will not infringe the rights of third parties.</strong>
