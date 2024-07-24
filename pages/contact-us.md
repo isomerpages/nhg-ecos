@@ -22,12 +22,14 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <p>For Staff of Public Healthcare Institutions (PHI), you must first
-          download and complete the <strong>ECOS Support Request Form (click
-          here)</strong> <span
+      - other: <p>For all <strong>Public Healthcare Institutions (PHI) Staff</strong>,
+          you must first&nbsp;complete the <a target="_blank"
+          href="https://for.sg/ecosrequestform"><strong>ECOS Support Request
+          Form <em>(download here)</em></strong></a> <span
           style="color:#c0392b"><strong>BEFORE</strong></span>&nbsp;emailing the
-          Form to your Institution ITD Helpdesk to log a Support Request.</p>
-    title: Important
+          Form to your Institution ITD Helpdesk to log an ECOS Support
+          Request.</p>
+    title: IMPORTANT
   - content:
       - phone: ""
       - email: ""
