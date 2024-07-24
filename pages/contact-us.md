@@ -28,6 +28,15 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: <p>For Staff of Public Healthcare Institutions (PHI), you must first
+          download and complete the <strong>ECOS Support Request Form (click
+          here)</strong> <span
+          style="color:#c0392b"><strong>BEFORE</strong></span>&nbsp;emailing the
+          Form to your Institution ITD Helpdesk to log a Support Request.</p>
+    title: Important
+  - content:
+      - phone: ""
+      - email: ""
       - other: <p>Mon&nbsp;to&nbsp;Fri&nbsp;<em>(excluding Public
           Holidays)</em></p>  <p>9am – 1pm, 2pm - 5pm</p>
     title: ECOS Helpdesk Operating Hours
