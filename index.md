@@ -17,6 +17,8 @@ sections:
             url: /contact-us/
           - title: ECOS User Guides
             url: /user-guides/
+          - title: Login to ECOS
+            url: https://www.ecos-research.com.sg/login
       variant: floating
       backgroundColor: gray
       size: md
