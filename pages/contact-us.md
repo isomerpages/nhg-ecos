@@ -15,5 +15,10 @@ contacts:
       - other: For ECOS Users from Public Healthcare Institutions (PHI), please contact
           your Institution ITD Helpdesk to log a Support Request.
     title: For NHG Staff (PHI User)
+  - content:
+      - phone: ""
+      - email: ITDHELP@nuhs.edu.sg
+      - other: Please contact your Institution ITD Helpdesk to log a Support Request.
+    title: For NUHS Staff (PHI User)
 feedback: ""
 ---
