@@ -8,7 +8,7 @@ contacts:
       - phone: ""
       - email: ITDHELP@nhg.com.sg
       - other: ""
-    title: For NHG Staff
+    title: For NHG Staff *
   - content:
       - phone: ""
       - email: ITDHELP@nuhs.edu.sg
@@ -19,12 +19,6 @@ contacts:
       - email: it.helpdesk@singhealth.com.sg
       - other: ""
     title: For SingHealth Staff
-  - content:
-      - phone: ""
-      - email: ""
-      - other: "Please submit an ECOS Support Request using this online form here:
-          https://for.sg/ecos-support-request"
-    title: For Non-Public Healthcare Institution Users
   - content:
       - phone: ""
       - email: ""
@@ -40,5 +34,11 @@ contacts:
       - other: <p>Mon&nbsp;to&nbsp;Fri&nbsp;<em>(excluding Public
           Holidays)</em></p>  <p>9am – 1pm, 2pm - 5pm</p>
     title: ECOS Helpdesk Operating Hours
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Please submit an ECOS Support Request using this online form here:
+          https://for.sg/ecos-support-request"
+    title: For Non-Public Healthcare Institution Users
 feedback: ""
 ---
