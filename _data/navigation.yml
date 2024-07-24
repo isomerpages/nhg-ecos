@@ -6,3 +6,5 @@ links:
     url: https://www.ecos-research.com.sg/login
   - title: Contact Us
     url: /contact-us/
+  - title: User Guides
+    collection: user-guides
