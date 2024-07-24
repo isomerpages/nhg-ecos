@@ -33,9 +33,6 @@ developed to launch in the latter part of 2024.
 into ECOS in parts.&nbsp;Please refrain from editing these migrating studies
 in ECOS as your work may not be saved.
 <br>
-<br>To expedite the transit, ECOS may also be unavailable on weekends, public
-holidays and after office hours (7pm-7am) in May.
-<br>
 <br>All posted announcements, news and guides related to the ECOS system will
 be made available here on this&nbsp;portal.</p>
 <p></p>
