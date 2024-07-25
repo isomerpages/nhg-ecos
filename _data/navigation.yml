@@ -2,8 +2,6 @@ logo: /images/ECOS Logo/ECOS_Logo_Sm.jpg
 links:
   - title: Home
     collection: home
-  - title: User Guides
-    collection: user-guides
   - title: Resources
     resource_room: true
   - title: Technical Support
