@@ -19,7 +19,7 @@ sections:
         options:
           - title: Login to ECOS
             url: https://www.ecos-research.com.sg/login
-          - title: Contact ECOS Technical Support
+          - title: Contact ECOS Helpdesk
             url: /contact-us/
           - title: Announcements
             url: resources/announcements/
