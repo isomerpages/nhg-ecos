@@ -2,8 +2,8 @@ title: NHG ECOS End-User Support Site
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#7e0000"
+  secondary-color: "#004d74"
   media-colors:
     - title: media-color-one
       color: "#49759a"
