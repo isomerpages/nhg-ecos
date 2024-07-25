@@ -23,6 +23,8 @@ sections:
             url: /user-guides/
           - title: Contact ECOS Technical Support
             url: /contact-us/
+          - title: ECOS User Guides 2
+            url: /ecos-user-guides/
   - resources:
       title: Resources
       id: resources
