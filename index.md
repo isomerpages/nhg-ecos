@@ -26,4 +26,5 @@ sections:
   - resources:
       title: Resources
       id: resources
+      button: See more
 ---
