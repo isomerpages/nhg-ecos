@@ -35,4 +35,8 @@ sections:
             Management System (CRMS) module.
           link_text: ""
           link_url: ""
+  - resources:
+      title: Resources
+      id: resources
+      button: aa
 ---
