@@ -23,20 +23,7 @@ sections:
             url: /user-guides/
           - title: Contact ECOS Technical Support
             url: /contact-us/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: "New Guide: How to manage Multi-Site Studies in ECOS"
-          date: 22 July 2024
-          announcement: This quick guide explains how researchers can set up and manage
-            multiple Study Sites in ECOS by using the ECOS Clinical Research
-            Management System (CRMS) module.
-          link_text: ""
-          link_url: ""
   - resources:
       title: Resources
       id: resources
-      button: aa
 ---
