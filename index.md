@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: NHG-ECOS End User Support
-      subtitle: Welcome to the ECOS End-User Support Site for NHG & NUHS Staff
+      subtitle: Welcome to the NHG ECOS End-User Support Site for NHG & NUHS Staff
       background: /images/Hero Banner Images/Aqua_Red.jpg
       variant: floating
       backgroundColor: gray
