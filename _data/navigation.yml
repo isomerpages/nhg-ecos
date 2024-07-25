@@ -4,7 +4,9 @@ links:
     collection: home
   - title: User Guides
     collection: user-guides
-  - title: ECOS Login
-    url: https://www.ecos-research.com.sg/login
+  - title: Resources
+    resource_room: true
   - title: Technical Support
     url: /contact-us/
+  - title: ECOS Login
+    url: https://www.ecos-research.com.sg/login
