@@ -25,6 +25,8 @@ sections:
             url: /announcements/
           - title: ECOS User Guides
             url: /user-guides/
+          - title: ECOS Quick Guides
+            url: /quick-guides/
   - resources:
       title: Resources
       id: resources
