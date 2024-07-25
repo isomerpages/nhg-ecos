@@ -9,7 +9,7 @@ sections:
   - hero:
       title: NHG-ECOS End User Support
       subtitle: Welcome to the ECOS End-User Support Site for NHG & NUHS Staff
-      background: /images/hero-banner.png
+      background: /images/Hero Banner Images/Aqua_Red.jpg
       variant: floating
       backgroundColor: gray
       size: md
