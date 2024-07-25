@@ -22,11 +22,11 @@ sections:
           - title: Contact ECOS Technical Support
             url: /contact-us/
           - title: Announcements
-            url: /announcements/
+            url: resources/announcements/
           - title: ECOS User Guides
-            url: /user-guides/
+            url: /resources/user-guides/
           - title: ECOS Quick Guides
-            url: /quick-guides/
+            url: /resources/quick-guides/
   - resources:
       title: Resources
       id: resources
