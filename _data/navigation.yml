@@ -4,6 +4,8 @@ links:
     collection: about
   - title: Resources
     resource_room: true
+  - title: FAQs
+    collection: ecos-faqs
   - title: Technical Support
     url: /contact-us/
   - title: ECOS Login
