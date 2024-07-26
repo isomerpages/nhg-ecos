@@ -27,6 +27,8 @@ sections:
             url: /resources/user-guides/
           - title: ECOS Quick Guides
             url: /resources/quick-guides/
+          - title: ECOS FAQs
+            url: /ecos-faq/
   - textcards:
       title: Top ECOS FAQs
       id: textcards
