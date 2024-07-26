@@ -2,6 +2,7 @@ collections:
   ecos-faqs:
     output: true
     order:
+      - "FAQ: Ethics/.keep"
       - About ECOS FAQs.md
       - "FAQ: General/.keep"
       - "FAQ: General/FAQ 1: How do we do this?.md"
