@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About FAQs.md
-      - "FAQ Topic: Ethics/.keep"
-      - "FAQ Topic: Ethics/FAQ 2: Insert Question here.md"
+      - "FAQ Topic 1: Ethics/.keep"
+      - "FAQ Topic 1: Ethics/FAQ 2: Insert Question here.md"
