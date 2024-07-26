@@ -47,5 +47,5 @@ sections:
   - resources:
       title: Resources
       id: resources
-      button: See more
+      button: SEE MORE HERE
 ---
