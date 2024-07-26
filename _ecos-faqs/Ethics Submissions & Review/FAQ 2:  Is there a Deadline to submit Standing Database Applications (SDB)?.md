@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Ethics Submissions & Review
 ---
+<h4><strong>Is there a Deadline to submit Standing Database Applications (SDB)?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>New SDB applications will no longer be accepted from 01 April 2024.</p>
