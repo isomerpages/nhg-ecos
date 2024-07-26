@@ -4,4 +4,4 @@ collections:
     order:
       - ECOS FAQs.md
       - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - "example-subfolder/FAQ 1: How do we do this?.md"
