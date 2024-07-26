@@ -31,4 +31,21 @@ sections:
       title: Resources
       id: resources
       button: See more
+  - textcards:
+      title: Top FAQs
+      id: textcards
+      description: Here are some of the most commonly asked questions about the ECOS system.
+      cards:
+        - title: FAQ 1
+          description: How do we do this?
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
