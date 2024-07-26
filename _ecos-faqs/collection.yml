@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - About FAQs.md
+      - "FAQ Topic 1: Ethics/FAQ 2:  Is there a Deadline to submit Standing
+        Database Applications (SDB)?.md"
       - "FAQ Topic 1: Ethics/.keep"
       - "FAQ Topic 1: Ethics/FAQ 1: What is the Submission Deadline for Ethics
         Review?.md"
