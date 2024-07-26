@@ -5,3 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: "FAQ Topic: Ethics"
 ---
+<p>FAQ Topic : Ethics</p>
+<p>FAQ 1: What is the submission Deadline for Ethics Review?</p>
