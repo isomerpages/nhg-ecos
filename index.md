@@ -27,12 +27,8 @@ sections:
             url: /resources/user-guides/
           - title: ECOS Quick Guides
             url: /resources/quick-guides/
-  - resources:
-      title: Resources
-      id: resources
-      button: See more
   - textcards:
-      title: Top FAQs
+      title: Top ECOS FAQs
       id: textcards
       description: Here are some of the most commonly asked questions about the ECOS system.
       cards:
@@ -48,4 +44,8 @@ sections:
           description: When does it start?
           linktext: Learn more
           url: ""
+  - resources:
+      title: Resources
+      id: resources
+      button: See more
 ---
