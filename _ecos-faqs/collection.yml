@@ -3,8 +3,7 @@ collections:
     output: true
     order:
       - About FAQs.md
-      - (1) ECOS General Functions/(G01) Who can access and login to the ECOS
-        system?.md
+      - (1) ECOS General Functions/(G01) Who can access the ECOS system?.md
       - (1) ECOS General Functions/.keep
       - (2) Ethics Submissions/.keep
       - (2) Ethics Submissions/(E1) What is the Submission Deadline for DSRB
