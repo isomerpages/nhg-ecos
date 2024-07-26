@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - ECOS FAQs.md
-      - example-subfolder/.keep
-      - "example-subfolder/FAQ 1: How do we do this?.md"
+      - FAQs/.keep
+      - "FAQs/FAQ 1: How do we do this?.md"
