@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Ethics Submissions & Review
 ---
-<p>Where and when can I submit new study applications and study amendments
-to DSRB?</p>
+<h4><strong>Where and when can I submit new study applications and study amendments to DSRB?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Researchers can submit new study applications on ECOS (launched on 10
