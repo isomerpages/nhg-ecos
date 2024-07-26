@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About ECOS FAQs.md
-      - FAQs/.keep
-      - "FAQs/FAQ 1: How do we do this?.md"
+      - "FAQ: General/.keep"
+      - "FAQ: General/FAQ 1: How do we do this?.md"
