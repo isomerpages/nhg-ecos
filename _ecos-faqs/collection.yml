@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - About FAQs.md
-      - Ethics Submissions & Review/.keep
-      - Ethics Submissions & Review/(E1) What is the Submission Deadline for
-        DSRB Ethics Review?.md
-      - Ethics Submissions & Review/(E2) Is there a Deadline to submit Standing
+      - (2) Ethics Submissions/.keep
+      - (2) Ethics Submissions/(E1) What is the Submission Deadline for DSRB
+        Ethics Review?.md
+      - (2) Ethics Submissions/(E2) Is there a Deadline to submit Standing
         Database Applications (SDB)?.md
