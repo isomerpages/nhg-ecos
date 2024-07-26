@@ -40,12 +40,12 @@ sections:
           description: How do we do this?
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: FAQ 2
+          description: Why do we need this?
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: FAQ 3
+          description: When does it start?
           linktext: Learn more
           url: ""
 ---
