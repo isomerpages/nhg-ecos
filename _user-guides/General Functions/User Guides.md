@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: General Functions
 ---
-<p>
-<br><strong><u>General Functions</u></strong>
+<h3><strong>User Guides for General Functions</strong></h3>
+<p></p>
+<p><strong><u>General Functions</u></strong>
 <br>This guidebook provides a general overview of the ECOS system as well
 as orientates the User to the ECOS interface. It also provides information
 on first-time ECOS User Account creation and login (Last updated: 7 May
