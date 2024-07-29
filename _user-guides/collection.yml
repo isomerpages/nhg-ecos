@@ -2,10 +2,10 @@ collections:
   user-guides:
     output: true
     order:
-      - General Functions/FAQs.md
-      - General Functions/Quick Guides.md
       - General Functions/.keep
       - General Functions/General Functions User Guides.md
+      - General Functions/Quick Guides.md
+      - General Functions/FAQs.md
       - Ethics Submission & Review/.keep
       - Ethics Submission & Review/Ethics Submissions & Review User Guides.md
       - Ethics Submission & Review/Quick Guides.md
