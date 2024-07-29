@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Clinical Research Mangt System
 ---
+<h3><strong>Quick Guides for Clinical Research Management System (CRMS)</strong></h3>
 <p></p>
 <p><strong>How to Add New Study Team Members to your Study on ECOS</strong>
 <br>This quick guide explains how a Principal Investigator (PI) can add and
