@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Inst & Dept Reps (IR, DR)
 ---
-<h3><strong>FAQs for Clinical Research Management System (CRMS) Module</strong></h3>
+<h3><strong>FAQs for Institution &amp; Department Representatives (IR &amp; DR)</strong></h3>
 <p></p>
 <p><strong><u>FAQ 1</u></strong>
 <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
