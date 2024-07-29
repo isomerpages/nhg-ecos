@@ -2,7 +2,7 @@ logo: /images/ECOS Logo/ECOS_Logo_Sm.jpg
 links:
   - title: About
     collection: about
-  - title: Resources
+  - title: Announcements
     resource_room: true
   - title: FAQs
     collection: ecos-faqs
