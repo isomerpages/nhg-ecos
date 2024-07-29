@@ -35,9 +35,9 @@ sections:
       description: Here are some of the most commonly asked questions about the ECOS system.
       cards:
         - title: FAQ 1
-          description: How do we do this?
+          description: Who can access the ECOS system?
           linktext: Learn more
-          url: ""
+          url: /faq-g01/
         - title: FAQ 2
           description: Why do we need this?
           linktext: Learn more
