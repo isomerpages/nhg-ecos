@@ -6,6 +6,8 @@ links:
     resource_room: true
   - title: FAQs
     collection: ecos-faqs
+  - title: User Guides
+    collection: user-guides
   - title: Helpdesk
     url: /contact-us/
   - title: Login
