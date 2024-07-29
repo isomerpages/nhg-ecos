@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: NHG-ECOS End User Support
-      subtitle: Welcome to the NHG ECOS End-User Support Site for NHG & NUHS Staff
+      title: NHG-ECOS End-User Support
+      subtitle: Welcome to the NHG ECOS End-User Support Portal
       background: /images/Hero Banner Images/Aqua_Red.jpg
       variant: center
       backgroundColor: gray
@@ -17,18 +17,14 @@ sections:
       dropdown:
         title: Shortcuts...
         options:
-          - title: Login to ECOS
-            url: https://www.ecos-research.com.sg/login
-          - title: Contact ECOS Helpdesk
-            url: /contact-us/
           - title: Announcements
             url: resources/announcements/
+          - title: ECOS Login
+            url: https://www.ecos-research.com.sg/login
           - title: ECOS User Guides
-            url: /resources/user-guides/
-          - title: ECOS Quick Guides
-            url: /resources/quick-guides/
-          - title: ECOS FAQs
-            url: /aboutfaq/
+            url: /about-ecos-user-guides/
+          - title: Contact ECOS Helpdesk
+            url: /contact-us/
   - textcards:
       title: Top ECOS FAQs
       id: textcards
