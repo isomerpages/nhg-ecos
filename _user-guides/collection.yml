@@ -2,6 +2,7 @@ collections:
   user-guides:
     output: true
     order:
+      - General Functions/General Functions.md
       - General Functions/.keep
       - Institution & Department Representatives (IR & DR).md
       - Ethics Submissions.md
