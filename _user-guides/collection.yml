@@ -2,6 +2,7 @@ collections:
   user-guides:
     output: true
     order:
+      - About ECOS User Guides.md
       - General Functions/.keep
       - General Functions/User Guides.md
       - General Functions/Quick Guides.md
