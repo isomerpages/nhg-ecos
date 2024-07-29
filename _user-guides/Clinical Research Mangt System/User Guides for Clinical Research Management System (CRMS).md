@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Clinical Research Mangt System
 ---
-<h4>User Guides for Clinical Research Management System (CRMS)</h4>
 <p></p>
 <p><strong><u>User Guide for Clinical Research Management System (CRMS) Module</u></strong>
 </p>
