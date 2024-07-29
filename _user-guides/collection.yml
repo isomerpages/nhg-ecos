@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General Functions/.keep
-      - General Functions.md
       - Institution & Department Representatives (IR & DR).md
       - Ethics Submissions.md
       - Managing Research Activity via CRMS.md
