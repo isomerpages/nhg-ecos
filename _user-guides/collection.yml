@@ -2,6 +2,8 @@ collections:
   user-guides:
     output: true
     order:
+      - Inst & Dept Reps (IR, DR)/Institution & Department Representatives (IR &
+        DR).md
       - Inst & Dept Reps (IR, DR)/.keep
       - General Functions/General Functions.md
       - General Functions/.keep
