@@ -2,10 +2,10 @@ collections:
   user-guides:
     output: true
     order:
-      - Clinical Research Mangt System/FAQs.md
       - Clinical Research Mangt System/.keep
-      - Clinical Research Mangt System/Quick Guides.md
       - Clinical Research Mangt System/User Guides.md
+      - Clinical Research Mangt System/Quick Guides.md
+      - Clinical Research Mangt System/FAQs.md
       - Clinical Research Mangt System/Managing Research Activity via CRMS.md
       - Ethics Submission & Review/Ethics Submissions.md
       - Ethics Submission & Review/.keep
