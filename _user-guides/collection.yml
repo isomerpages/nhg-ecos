@@ -2,6 +2,7 @@ collections:
   user-guides:
     output: true
     order:
+      - Clinical Research Mangt System/Managing Research Activity via CRMS.md
       - Clinical Research Mangt System/.keep
       - Ethics Submission & Review/Ethics Submissions.md
       - Ethics Submission & Review/.keep
