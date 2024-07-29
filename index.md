@@ -39,13 +39,13 @@ sections:
           linktext: Learn more
           url: /faq-g01/
         - title: FAQ 2
-          description: Why do we need this?
+          description: Will there be changes in the IRB review structure for NHG DSRB?
           linktext: Learn more
-          url: ""
+          url: /faq-g02/
         - title: FAQ 3
-          description: When does it start?
+          description: Is there a Deadline to submit Standing Database Applications (SDB)?
           linktext: Learn more
-          url: ""
+          url: /faq-e02/
   - resources:
       title: Resources
       id: resources
