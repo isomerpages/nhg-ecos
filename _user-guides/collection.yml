@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - General Functions/.keep
-      - General Functions/General Functions User Guides.md
+      - General Functions/User Guides.md
       - General Functions/Quick Guides.md
       - General Functions/FAQs.md
       - Ethics Submission & Review/.keep
