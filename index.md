@@ -26,9 +26,9 @@ sections:
           - title: Contact ECOS Helpdesk
             url: /contact-us/
   - resources:
-      title: Resources
+      title: Announcements
       id: resources
-      button: SEE MORE HERE
+      button: See more here
   - textcards:
       title: Top ECOS FAQs
       id: textcards
