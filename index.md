@@ -4,7 +4,7 @@ title: NHG ECOS End-User Support Site
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: This Site is currently under construction.
 sections:
   - hero:
       title: NHG-ECOS End-User Support
