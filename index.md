@@ -25,6 +25,10 @@ sections:
             url: /about-ecos-user-guides/
           - title: Contact ECOS Helpdesk
             url: /contact-us/
+  - resources:
+      title: Resources
+      id: resources
+      button: SEE MORE HERE
   - textcards:
       title: Top ECOS FAQs
       id: textcards
@@ -42,8 +46,4 @@ sections:
           description: Is there a Deadline to submit Standing Database Applications (SDB)?
           linktext: Learn more
           url: /faq-e02/
-  - resources:
-      title: Resources
-      id: resources
-      button: SEE MORE HERE
 ---
