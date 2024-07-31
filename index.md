@@ -29,21 +29,4 @@ sections:
       title: Announcements
       id: resources
       button: See more here
-  - textcards:
-      title: Top ECOS FAQs
-      id: textcards
-      description: Here are some of the most commonly asked questions about the ECOS system.
-      cards:
-        - title: FAQ 1
-          description: Who can access the ECOS system?
-          linktext: Learn more
-          url: /faq-g01/
-        - title: FAQ 2
-          description: Will there be changes in the IRB review structure for NHG DSRB?
-          linktext: Learn more
-          url: /faq-g02/
-        - title: FAQ 3
-          description: Is there a Deadline to submit Standing Database Applications (SDB)?
-          linktext: Learn more
-          url: /faq-e02/
 ---
