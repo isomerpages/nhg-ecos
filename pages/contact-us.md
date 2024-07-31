@@ -33,15 +33,20 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Mon to Fri <br>(Closed on Public Holidays)<p></p>  <p>9am – 1pm <br>2pm -
-          5pm</p>
-    title: Operating Hours
-  - content:
-      - phone: ""
-      - email: ""
       - other: <p>For Non-Public Healthcare Institution&nbsp;Users, please submit your
           ECOS Support Request here:&nbsp;<a target="_blank"
           href="https://for.sg/ecos-support-request">https://for.sg/ecos-support-request</a>&nbsp;</p>
     title: For Non-PHI Users
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: .
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Mon to Fri <br>(Closed on Public Holidays)<p></p>  <p>9am – 1pm <br>2pm -
+          5pm</p>
+    title: Operating Hours
 feedback: ""
 ---
