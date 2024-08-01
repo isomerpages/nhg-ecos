@@ -2,7 +2,6 @@ collections:
   user-guides:
     output: true
     order:
-      - PISAF Module/.keep
       - About ECOS User Guides.md
       - General Functions/.keep
       - General Functions/User Guides.md
@@ -21,4 +20,5 @@ collections:
       - DNC and SAE Module/.keep
       - FCOI Module/.keep
       - Monitoring Module/.keep
+      - PISAF Module/.keep
       - Standing Databases Module/.keep
