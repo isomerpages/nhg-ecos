@@ -5,27 +5,18 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>About ECOS User Guides</strong></h3>
-<p>The ECOS User Guides are organized by Topics, and each Topic has the following
-sections:</p>
+<p>Written by NHG OHRPP Staff, the ECOS User Guides will guide and assist
+users when using the ECOS system.</p>
+<p>The User Guides are categorized by the Modules in ECOS, and each category
+has the following sections:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>User Guides - Full, step-by-step Guides</p>
+<p>User Guides - Full, Step-by-Step Guides.</p>
 </li>
 <li>
-<p>Quick Guides - Concise, easy-to-understand info sheet.</p>
-</li>
-<li>
-<p>FAQs - Frequently Asked Questions</p>
+<p>Quick Guides - Concise and easy-to-understand info sheet.</p>
 </li>
 </ul>
-<p>You can also use the Seach Function found on the top-right corner of the
-page to locate the information you need.</p>
+<p>You can also use the Seach Function (found on the page's top-right corner)
+to locate the information you need.</p>
 <p></p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
