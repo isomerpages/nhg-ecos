@@ -2,11 +2,6 @@ collections:
   user-guides:
     output: true
     order:
-      - Standing Databases Module/.keep
-      - Monitoring Module/.keep
-      - Audit Module/.keep
-      - DNC and SAE Module/.keep
-      - FCOI Module/.keep
       - About ECOS User Guides.md
       - General Functions/.keep
       - General Functions/User Guides.md
@@ -18,6 +13,11 @@ collections:
       - Inst & Dept Reps (IR, DR)/.keep
       - Inst & Dept Reps (IR, DR)/User Guides.md
       - Inst & Dept Reps (IR, DR)/Quick Guides.md
+      - Audit Module/.keep
       - CRMS Module/.keep
       - CRMS Module/User Guides.md
       - CRMS Module/Quick Guides.md
+      - DNC and SAE Module/.keep
+      - FCOI Module/.keep
+      - Monitoring Module/.keep
+      - Standing Databases Module/.keep
