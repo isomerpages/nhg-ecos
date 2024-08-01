@@ -18,7 +18,7 @@ sections:
         title: Shortcuts...
         options:
           - title: Announcements
-            url: resources/announcements/
+            url: /announcements/
           - title: ECOS Login
             url: https://www.ecos-research.com.sg/login
           - title: ECOS User Guides
