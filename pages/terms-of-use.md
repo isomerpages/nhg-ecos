@@ -26,7 +26,7 @@ information, copyright compliance, legality or decency of material contained
 in sites that are linked to or from this Site from third parties not associated
 with NHG and you irrevocably waive any claim against NHG with respect to
 such sites. NHG does not endorse or make any representations whatsoever
-as to the contents of third party sites included in this Site, whether
+as to the contents of third-party sites included in this Site, whether
 or not such link was created by NHG.
 <br>
 </p>
@@ -49,7 +49,7 @@ the use of this Site will not cause damage to or impede the functions of
 your computer system or result in loss of data; or</p>
 </li>
 <li>
-<p>The contents is accurate, authentic, adequate, applicable, timely, complete
+<p>The contents are accurate, authentic, adequate, applicable, timely, complete
 or reliable.</p>
 </li>
 </ul>
