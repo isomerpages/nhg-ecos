@@ -3,10 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: tiptap
 ---
-<p></p>
 <p><strong>TERMS OF USE</strong>
-</p>
-<p><strong>NHG does not warrant or represent that your use of this Site will not infringe the rights of third parties.</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -40,8 +37,7 @@ or be liable for any action or decision taken as a result of the information
 in this Site. Information accessed through this Site is provided on an
 “as is” and “as available” basis. NHG disclaims all warranties of any kind,
 whether express or implied, including but not limited to any warranty that:</p>
-</li>
-</ol>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Your use of this Site will be error-free, free from computer viruses,
@@ -54,11 +50,12 @@ your computer system or result in loss of data; or</p>
 </li>
 <li>
 <p>The contents is accurate, authentic, adequate, applicable, timely, complete
-or reliable.
-<br>
-</p>
+or reliable.</p>
 </li>
 </ul>
+</li>
+</ol>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>None of the contents or any statement made on or obtained through this
