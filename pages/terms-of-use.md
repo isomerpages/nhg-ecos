@@ -13,9 +13,7 @@ by your own physician or other medical professionals. You should not use
 the information and materials found on this Site for the purpose of diagnosis
 or treatment of a health condition or disease or for the prescription of
 any medication. If you have or suspect that you have a medical problem,
-you should promptly consult your own physician and medical advisers.
-<br>
-</p>
+you should promptly consult your own physician and medical advisers.</p>
 </li>
 <li>
 <p>This Site may contain links to web sites maintained by other people and/or
@@ -27,9 +25,7 @@ in sites that are linked to or from this Site from third parties not associated
 with NHG and you irrevocably waive any claim against NHG with respect to
 such sites. NHG does not endorse or make any representations whatsoever
 as to the contents of third-party sites included in this Site, whether
-or not such link was created by NHG.
-<br>
-</p>
+or not such link was created by NHG.</p>
 </li>
 <li>
 <p>NHG, its staff and the writers of the articles, cannot be held responsible
