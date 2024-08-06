@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NHG ECOS End-User Support Site
+title: ECOS End-User Support Site for NHG Research Community
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
