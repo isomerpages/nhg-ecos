@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - About FAQs.md
-      - (1) ECOS General Functions/.keep
-      - (1) ECOS General Functions/(G01) Who can access the ECOS system?.md
-      - (1) ECOS General Functions/(G02) With the launch of ECOS, will there be
-        changes in the IRB review structure for NHG DSRB?.md
       - (2) Ethics Submissions/.keep
       - (2) Ethics Submissions/(E1) What is the Submission Deadline for DSRB
         Ethics Review?.md
