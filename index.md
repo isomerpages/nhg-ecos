@@ -7,8 +7,7 @@ permalink: /
 notification: This Site is currently under construction.
 sections:
   - hero:
-      title: NHG-ECOS End-User Support
-      subtitle: Welcome to the NHG ECOS End-User Support Portal
+      title: ECOS End-User Support Portal for NHG Research Community
       background: /images/Hero Banner Images/Aqua_Red.jpg
       variant: center
       backgroundColor: gray
