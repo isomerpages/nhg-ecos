@@ -1,5 +1,4 @@
 collections:
   ecos-faqs:
     output: true
-    order:
-      - About FAQs.md
+    order: []
