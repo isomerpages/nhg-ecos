@@ -157,5 +157,18 @@ are to be reported, reviewed and processed in the ECOS system. (Last updated
 </details>
 </div>
 <p></p>
-<p></p>
+<h4><strong>For ECOS Institution &amp; Department Representatives</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>How Inst &amp; Dept Reps can locate and complete their Endorsement Tasks</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This guidebook is intended for ECOS Users who are appointed as Institution
+or Department Representatives (IR &amp; DR). It provides information and
+a step-by-step guide on the IR &amp; DR Ethics Submission Endorsement process.
+(Last updated 7 May 2024)</p>
+<p><a href="/files/User Guides/Dept and Inst Rep/ECOS_DR___IR_Endorsement_Process_Guide_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
+</div>
+</details>
+</div>
 <p></p>
