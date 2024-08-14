@@ -4,3 +4,52 @@ permalink: /ecos-training/
 variant: tiptap
 description: ""
 ---
+<h4><strong>ECOS ONBOARDING TRAINING WEBINARS</strong></h4>
+<p>Organized by the NHG Office of Human Research Protection Programme (OHRPP),
+the ECOS Onboarding Training Webinars are intended to introduce new Ethics
+&amp; Compliance Online System (ECOS) and its various functionalities to
+the NHG Research Community, our Partner Institutions and Industry Partners.</p>
+<h4><strong>Webinar Synopsis</strong></h4>
+<p>Each of the ECOS Onboarding Training Webinars will introduce participants
+to the new Ethics &amp; Compliance Online System (ECOS) and its key functionalities.
+During the&nbsp;one-hour Webinar, presenters will cover topics such as
+Navigating the ECOS system and Managing your Study via the ECOS Clinical
+Research Management (CRMS) module. The Webinar will end with a&nbsp;Q&amp;A
+session.</p>
+<h4><strong>Upcoming Webinars&nbsp;</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The April Webinar series has concluded. We will announce the next series
+of ECOS Training Webinars when details become available.&nbsp;</p>
+</li>
+<li>
+<p>You can also subscribe to the <strong><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List </u></a><em><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank"><u>(https://for.sg/ecos-mailing-list</u></a></em></strong>)<em>&nbsp;</em>if
+you wish to be notified of future webinars and other ECOS-related announcements.&nbsp;</p>
+</li>
+</ul>
+<h4><br><strong>Webinar Learning Resources</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>ECOS Webinar Slides (22 April 2024)</p>
+</li>
+<li>
+<p>How NHG Staff can access the ECOS Webinar Recording</p>
+</li>
+</ul>
+<p></p>
+<p><strong>IMPORTANT</strong>​</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>There are <strong>limited slots available</strong> for each Webinar, and
+registration is on a <strong><em>“First-Come-First Served”</em></strong> basis.</p>
+</li>
+<li>
+<p>Interested participants need <strong>only attend any <u>ONE</u></strong> of
+the four webinars as <strong>each Webinar's content is the same</strong>.&nbsp;</p>
+</li>
+<li>
+<p>Registration for each Webinar will close once all of the Zoom Webinar's&nbsp;available
+slots have been taken up.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
