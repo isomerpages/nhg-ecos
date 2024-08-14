@@ -17,8 +17,8 @@ our research Partners and Collaborators.</p>
 can login and create their ECOS User Accounts. It also provides information
 on the NHG Minimum Training requirements and orientates Users to the ECOS
 interface and layout. (Last updated: 7 May 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Creating_New_User_Accounts___General_Overview_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
@@ -28,8 +28,8 @@ interface and layout. (Last updated: 7 May 2024)</p>
 <p>This guidebook will show ECOS Users how to access the Minimum Training
 Module to upload their training certificates into their User Profile. (Last
 updated: 7 May 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_Min_Training_Certs_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
@@ -39,8 +39,8 @@ updated: 7 May 2024)</p>
 <p>This guidebook introduces the Financial Conflict of Interest (FCOI) Module
 and shows how Users can submit their FCOI Declarations as well as responding
 to queries from the FCOI Secretariat. (Last updated: 7 May 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_FCOI_Declarations_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
