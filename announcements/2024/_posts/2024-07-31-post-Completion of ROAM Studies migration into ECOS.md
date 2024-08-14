@@ -10,6 +10,6 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/Announce_ROAM_MIgration_Completed_30_July_2024.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Announcement Images/Announce_ROAM_MIgration_Completed_30_July_2024.png">
 </div>
 <p></p>
