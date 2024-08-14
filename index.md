@@ -16,12 +16,12 @@ sections:
       dropdown:
         title: Shortcuts...
         options:
-          - title: Announcements
-            url: /announcements/
-          - title: ECOS Login
+          - title: Login to ECOS
             url: https://www.ecos-research.com.sg/login
+          - title: Latest News & Announcements
+            url: /announcements/
           - title: ECOS User Guides
-            url: /about-ecos-user-guides/
+            url: /userguides/
           - title: Contact ECOS Helpdesk
             url: /contact-us/
   - resources:
