@@ -1,5 +1,5 @@
 collections:
-  user-guides:
+  user-guides-by-topic-defunct:
     output: true
     order:
       - About ECOS User Guides.md
