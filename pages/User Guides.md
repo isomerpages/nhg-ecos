@@ -96,13 +96,11 @@ projects and activities</summary>
 <p>This guidebook introduces the new ECOS Clinical Research Management System
 (CRMS) module which is a useful clinical research management tool at the
 Site, Study and Institutional level.</p>
-<p>&nbsp;</p>
 <p>Researchers can use the CRMS module to record, track and manage their
 respective clinical research projects and activities, including managing
 the User Authorization List which controls user access to CRMS, IRB and
 other modules for Study Team Roles (ie: Study Administrators, Collaborators,
 Study Sponsor, etc). (Last updated: 21 May 2024)</p>
-<p></p>
 <p>Download here</p>
 <p></p>
 </div>
@@ -114,8 +112,8 @@ Study Sponsor, etc). (Last updated: 21 May 2024)</p>
 endorse/approve new Study Team Members via the Study’s User Authorization
 List (UAL) in the ECOS Clinical Research Management System (CRMS) module
 (Last updated: 7 June 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/Managing Research Activity/ECOS_Adding_new_Study_Team_Members_7_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
