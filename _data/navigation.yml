@@ -4,10 +4,10 @@ links:
     collection: about
   - title: Announcements
     resource_room: true
-  - title: User Guides
-    collection: user-guides
   - title: FAQs
     url: /faqs/
+  - title: User Guides 2
+    url: /userguides2/
   - title: Helpdesk
     url: /contact-us/
   - title: Login
