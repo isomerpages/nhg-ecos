@@ -4,8 +4,11 @@ permalink: /userguides/
 variant: tiptap
 description: ""
 ---
-<p>These are the ECOS User Guides intended for NHG &amp; NUHS Staff, and
-our research Partners and Collaborators.</p>
+<p>Authored by NHG OHRPP Staff, these are the ECOS User Guides intended to
+guide NHG &amp; NUHS Staff, and our research Partners and Collaborators
+when using the ECOS system.</p>
+<p>You can also use the Seach Function (found on the page's top-right corner)
+to locate the information you need.</p>
 <p>Do check back regularly for updates and new additions.</p>
 <p></p>
 <h4><strong>General ECOS Functionality &amp; Overview</strong></h4>
