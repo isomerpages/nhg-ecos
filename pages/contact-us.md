@@ -48,5 +48,12 @@ contacts:
       - other: Monday to Friday <br>(Closed on Public Holidays)<p></p>  <p>9am – 1pm
           <br>2pm - 5pm</p>
     title: ECOS Helpdesk Operating Hours
+  - content:
+      - phone: ""
+      - email: ""
+      - other: The ECOS system is closed for scheduled maintenance <b>every Wednesday
+          from 10 pm to 12 midnight.</b>  <br>The ECOS system will not be
+          available to users during this time period.
+    title: Scheduled ECOS Maintenance Period
 feedback: ""
 ---
