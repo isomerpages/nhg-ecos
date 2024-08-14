@@ -4,9 +4,9 @@ permalink: /userguides/
 variant: tiptap
 description: ""
 ---
-<p>Authored by NHG OHRPP Staff, these are the ECOS User Guides intended to
-guide NHG &amp; NUHS Staff, and our research Partners and Collaborators
-when using the ECOS system.</p>
+<p>Authored by the NHG OHRPP Staff, these are the ECOS User Guides intended
+to assist and guide NHG &amp; NUHS Staff, and our research Partners and
+Collaborators when using the ECOS system.</p>
 <p>You can also use the Seach Function (found on the page's top-right corner)
 to locate the information you need.</p>
 <p>Do check back regularly for updates and new additions.</p>
@@ -58,8 +58,8 @@ to queries from the FCOI Secretariat. (Last updated: 7 May 2024)</p>
 Review Board (IRB) Module. It explains the IRB submission process for new
 Study Submissions and for the various reporting Forms for approved active
 studies. (Last updated 9 May 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_Overview_of_IRB_Ethics_Submissions_9_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
@@ -69,8 +69,8 @@ studies. (Last updated 9 May 2024)</p>
 <p>This quick guide explains how to successfully prepare for an IRB submission,
 in particular, by looking at the User Profiles, Minimum Training and FCOI
 Declaration requirements. (Last updated: 13 August 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_How_to_Prepare_for_IRB_Submissions_13_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
@@ -80,8 +80,8 @@ Declaration requirements. (Last updated: 13 August 2024)</p>
 <p>This guidebook provides a complete listing of all the Sections and Questions
 in the IRB Application Form for reference so that researchers can draft
 their IRB Application Form. (Last updated: 1 March 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_Questions_in_the_IRB_Application_Form_1_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
