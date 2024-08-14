@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - ECOS Mailing List.md
       - About ECOS.md
       - About this Site.md
