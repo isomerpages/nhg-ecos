@@ -12,7 +12,7 @@ the ECOS Mailing List by using the link below.</p>
 </li>
 </ul>
 <p>The ECOS Announcement Emails will be sent to you via <a href="http://Postman.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a>.
-<br>(Postman is a mass messaging tool for the Singapore Government's agencies.)</p>
+(Postman is a mass messaging tool for the Singapore Government's agencies.)</p>
 <p>Alternatively, you can always refer directly to the <a href="/announcements/" rel="noopener noreferrer nofollow" target="_blank">Announcements section</a> for
 all past announcements and news.</p>
 <p></p>
