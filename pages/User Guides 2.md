@@ -7,27 +7,15 @@ description: ""
 <p>These are the ECOS User Guides intended for NHG &amp; NUHS Staff. Do check
 back here regularly for updates and new additions.</p>
 <p></p>
-<h4><strong>For ECOS Institution &amp; Department Representatives</strong></h4>
+<h4><strong>General ECOS Functionality &amp; Overview</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ECOS Institution &amp; Department Representatives Endorsement Process Guidebook</strong>
-<br>This guidebook is intended for ECOS Users who are appointed as Institution
-or Department Representatives (IR &amp; DR). It provides information on
-the IR &amp; DR Ethics Submission Endorsement process.</p>
-</li>
-</ul>
-<p></p>
-<p></p>
-<h4><strong>General Functionality</strong></h4>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>ECOS General Orientation &amp; User Accounts</strong>
-<br>This guidebook provides a general overview of the ECOS system as well
-as orientates the User to the ECOS interface. It also provides information
-on first-time ECOS User Account creation and login (Last updated: 7 May
-2024)</p>
+<p><strong>Creating New User Accounts &amp; General Overview</strong>
+<br>This guidebook shows how new Public Healthcare Institutions (PHI) Users
+can login and create their ECOS User Accounts. It also provides information
+on the NHG Minimum Training requirements and orientates Users to the ECOS
+interface and layout. (Last updated: 7 May 2024)</p>
 </li>
 </ul>
 <p></p>
@@ -49,7 +37,10 @@ to queries from the FCOI Secretariat. (Last updated: 7 May 2024)</p>
 </li>
 </ul>
 <p></p>
+<hr>
+<p></p>
 <h4><strong>IRB Ethics Submissions</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Institutional Review Board Module</strong>
@@ -69,7 +60,10 @@ IRB Application Form. (Last updated: 1 March 2024)</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Research Activity Management via ECOS-CRMS</strong></h4>
+<hr>
+<p></p>
+<h4><strong>Managing Research Activity</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Clinical Research Management System (CRMS) Module</strong>
@@ -107,6 +101,8 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 (CRMS) module (Last updated: 22 July 2024)</p>
 </li>
 </ul>
+<p></p>
+<hr>
 <p></p>
 <h4><strong>Compliance Module (Deviations &amp; Non-Compliances, SAEs)</strong></h4>
 <ul data-tight="true" class="tight">
