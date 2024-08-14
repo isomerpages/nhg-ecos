@@ -154,8 +154,8 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 <p></p>
 <p>This Guidebook provides Users with an overview of how Non-Compliance Events
 (such as Study Deviations, Non-Compliance Events and Serious Adverse Events)
-are to be reported, reviewed and processed in the ECOS system.</p>
-<p>(Last updated 1 August 2024)</p>
+are to be reported, reviewed and processed in the ECOS system. (Last updated
+1 August 2024)</p>
 <p></p>
 <p>Download here</p>
 <p></p>
