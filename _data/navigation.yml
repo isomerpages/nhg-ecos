@@ -6,8 +6,8 @@ links:
     resource_room: true
   - title: FAQs
     url: /faqs/
-  - title: User Guides 2
-    url: /userguides2/
+  - title: User Guides
+    url: /userguides/
   - title: Helpdesk
     url: /contact-us/
   - title: Login
