@@ -19,21 +19,26 @@ session.</p>
 <h4><strong>Upcoming Webinars&nbsp;</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The April Webinar series has concluded. We will announce the next series
-of ECOS Training Webinars when details become available.&nbsp;</p>
+<p>The April Webinar series has concluded.</p>
 </li>
 <li>
-<p>You can also subscribe to the <strong><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List </u></a><em><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank"><u>(https://for.sg/ecos-mailing-list</u></a></em></strong>)<em>&nbsp;</em>if
+<p>We will announce the next series of ECOS Training Webinars when details
+become available.&nbsp;</p>
+</li>
+<li>
+<p>You can also subscribe to the <strong><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List</u></a></strong><em>&nbsp;</em>if
 you wish to be notified of future webinars and other ECOS-related announcements.&nbsp;</p>
 </li>
 </ul>
-<h4><br><strong>Webinar Learning Resources</strong></h4>
+<h4><strong>Webinar Learning Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>ECOS Webinar Slides (22 April 2024)</p>
+<p><a href="/files/Training/ECOS_Training_Webinar_Slides_22_April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECOS Webinar Slides (22 April 2024)</a>
+</p>
 </li>
 <li>
-<p>How NHG Staff can access the ECOS Webinar Recording</p>
+<p><a href="/files/Training/ECOS_How_to_access_ECOS_Webinar_Recording_on_NHG_eLearn.pdf" rel="noopener noreferrer nofollow" target="_blank">How NHG Staff can access the ECOS Webinar Recording</a>
+</p>
 </li>
 </ul>
 <p></p>
