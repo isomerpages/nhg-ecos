@@ -120,13 +120,13 @@ List (UAL) in the ECOS Clinical Research Management System (CRMS) module
 </div>
 </details>
 <details class="isomer-details">
-<summary>How to add and endorse New Study Team members in ECOS</summary>
+<summary>How to Add and Endorse New Study Team members in ECOS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick guide explains how the current Team Members can add new Team
 Members via the Study’s User Authorization List (UAL) in the ECOS Clinical
 Research Management System (CRMS) module. (Last updated 24 June 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/Managing Research Activity/ECOS_How_to_Endorse_New_Study_Team_Members_24_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
@@ -136,13 +136,13 @@ Research Management System (CRMS) module. (Last updated 24 June 2024)</p>
 <p>This quick guide explains how researchers can set up and manage multiple
 Study Sites in ECOS by using the ECOS Clinical Research Management System
 (CRMS) module (Last updated: 22 July 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/Managing Research Activity/ECOS_Managing_Multi_Site_Studies_22_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
 </div>
-<h4><br><br><strong>Managing Non-Compliance Events </strong>(Study Deviations, Non-Compliances &amp; SAEs)</h4>
+<h4><br><strong>Managing Non-Compliance Events </strong>(Study Deviations, Non-Compliances &amp; SAEs)</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>How to report and manage Non-Compliance Events</summary>
@@ -151,8 +151,8 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 (such as Study Deviations, Non-Compliance Events and Serious Adverse Events)
 are to be reported, reviewed and processed in the ECOS system. (Last updated
 1 August 2024)</p>
-<p></p>
-<p>Download here</p>
+<p><a href="/files/User Guides/Managing Non Compliance Events/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 </div>
 </details>
