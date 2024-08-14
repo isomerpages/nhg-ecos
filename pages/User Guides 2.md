@@ -90,13 +90,19 @@ their IRB Application Form. (Last updated: 1 March 2024)</p>
 <h4><strong>Managing Your Research Activity</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Clinical Research Management System (CRMS) Module</summary>
+<summary>Using the Clinical Research Management System (CRMS) to manage research
+projects and activities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>This guidebook introduces the new ECOS Clinical Research Management System
-(CRMS) module which researchers can use to record, track and manage their
-respective clinical research projects and activities. (Last updated: 21
-May 2024)</p>
+(CRMS) module which is a useful clinical research management tool at the
+Site, Study and Institutional level.</p>
+<p>&nbsp;</p>
+<p>Researchers can use the CRMS module to record, track and manage their
+respective clinical research projects and activities, including managing
+the User Authorization List which controls user access to CRMS, IRB and
+other modules for Study Team Roles (ie: Study Administrators, Collaborators,
+Study Sponsor, etc). (Last updated: 21 May 2024)</p>
 <p></p>
 <p>Download here</p>
 <p></p>
@@ -142,18 +148,7 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 </div>
 <p>
 <br>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<h4>Compliance Module (Deviations &amp; Non-Compliances, SAEs)</h4>
+<br>Compliance Module (Deviations &amp; Non-Compliances, SAEs)</p>
 <p>Compliance Module Guidebook
 <br>This Guidebook provides an overview of how Study Deviations, Non-Compliances
 and Serious Adverse Events reporting from HBR Studies are reviewed and
