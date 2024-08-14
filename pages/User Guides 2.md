@@ -4,8 +4,9 @@ permalink: /userguides2/
 variant: tiptap
 description: ""
 ---
-<p>These are the ECOS User Guides intended for NHG &amp; NUHS Staff. Do check
-back here regularly for updates and new additions.</p>
+<p>These are the ECOS User Guides intended for NHG &amp; NUHS Staff, and
+our research Partners and Collaborators.</p>
+<p>Do check back regularly for updates and new additions.</p>
 <p></p>
 <h4><strong>General ECOS Functionality &amp; Overview</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
