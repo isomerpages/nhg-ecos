@@ -127,6 +127,18 @@ Research Management System (CRMS) module. (Last updated 24 June 2024)</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>How to manage Multi-Site Studies in ECOS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>This quick guide explains how researchers can set up and manage multiple
+Study Sites in ECOS by using the ECOS Clinical Research Management System
+(CRMS) module (Last updated: 22 July 2024)</p>
+<p></p>
+<p>Download here</p>
+<p></p>
+</div>
+</details>
 </div>
 <p>
 <br>
@@ -137,11 +149,9 @@ Research Management System (CRMS) module. (Last updated 24 June 2024)</p>
 </p>
 <p></p>
 <p></p>
-<p>How to manage Multi-Site Studies in ECOS
-<br>This quick guide explains how researchers can set up and manage multiple
-Study Sites in ECOS by using the ECOS Clinical Research Management System
-(CRMS) module (Last updated: 22 July 2024)</p>
-<p>Download here</p>
+<p>
+<br>
+</p>
 <p></p>
 <h4>Compliance Module (Deviations &amp; Non-Compliances, SAEs)</h4>
 <p>Compliance Module Guidebook
