@@ -149,10 +149,7 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 <p>
 <br>
 <br>Compliance Module (Deviations &amp; Non-Compliances, SAEs)</p>
-<p>Compliance Module Guidebook
-<br>This Guidebook provides an overview of how Study Deviations, Non-Compliances
-and Serious Adverse Events reporting from HBR Studies are reviewed and
-processed in the ECOS system. (Last updated 1 August 2024)</p>
+<p></p>
 <p>Download here</p>
 <p></p>
 <p></p>
