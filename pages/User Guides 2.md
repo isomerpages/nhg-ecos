@@ -4,10 +4,8 @@ permalink: /userguides2/
 variant: tiptap
 description: ""
 ---
-<p><strong>ECOS USER GUIDES</strong>
-</p>
-<p>These are the current available ECOS User Guides intended for NHG Staff.
-Do check back here regularly for updates and new additions.</p>
+<p>These are the ECOS User Guides intended for NHG &amp; NUHS Staff. Do check
+back here regularly for updates and new additions.</p>
 <p></p>
 <h4><strong>For ECOS Institution &amp; Department Representatives</strong></h4>
 <p></p>
@@ -25,7 +23,7 @@ the IR &amp; DR Ethics Submission Endorsement process.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ECOS General Functions</strong>
+<p><strong>ECOS General Orientation &amp; User Accounts</strong>
 <br>This guidebook provides a general overview of the ECOS system as well
 as orientates the User to the ECOS interface. It also provides information
 on first-time ECOS User Account creation and login (Last updated: 7 May
@@ -35,7 +33,7 @@ on first-time ECOS User Account creation and login (Last updated: 7 May
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Minimum Training Module</strong>
+<p><strong>Submitting Minimum Training Certification</strong>
 <br>This guidebook will show ECOS Users how to access the Minimum Training
 Module to upload their training certificates into their User Profile. (Last
 updated: 7 May 2024)</p>
