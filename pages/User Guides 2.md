@@ -8,42 +8,51 @@ description: ""
 back here regularly for updates and new additions.</p>
 <p></p>
 <h4><strong>General ECOS Functionality &amp; Overview</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Creating New User Accounts &amp; General Overview</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Creating New User Accounts &amp; General Overview</strong>
-<br>This guidebook shows how new Public Healthcare Institutions (PHI) Users
+<p>This guidebook shows how new Public Healthcare Institutions (PHI) Users
 can login and create their ECOS User Accounts. It also provides information
 on the NHG Minimum Training requirements and orientates Users to the ECOS
 interface and layout. (Last updated: 7 May 2024)</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Submitting Minimum Training Certification</strong>
-<br>This guidebook will show ECOS Users how to access the Minimum Training
+<p>Download here</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Submitting Minimum Training Certification</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>This guidebook will show ECOS Users how to access the Minimum Training
 Module to upload their training certificates into their User Profile. (Last
 updated: 7 May 2024)</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Financial Conflict of Interest Module</strong>
-<br>This guidebook introduces the Financial Conflict of Interest (FCOI) Module
+<p>Download here</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Submitting Financial Conflict of Interest (FCOI) Declarations</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>This guidebook introduces the Financial Conflict of Interest (FCOI) Module
 and shows how Users can submit their FCOI Declarations as well as responding
 to queries from the FCOI Secretariat. (Last updated: 7 May 2024)</p>
-</li>
-</ul>
 <p></p>
-<hr>
+<p>Download here</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong>IRB Ethics Submissions</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Institutional Review Board Module</strong>
+<p><strong>Overview of IRB Ethics Submissions</strong>
 <br>This Guidebook provides an overview and user-orientation to the Institutional
 Review Board (IRB) Module. It explains the IRB submission process for new
 Study Submissions and for the various reporting Forms for approved active
@@ -53,7 +62,7 @@ studies. (Last updated 9 May 2024)</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>IRB Application Form</strong>
+<p><strong>IRB Ethics Application Form - List of Sections &amp; Questions</strong>
 <br>This guidebook provides a listing of all the Sections and Questions in
 the IRB Application Form for reference so that researchers can draft their
 IRB Application Form. (Last updated: 1 March 2024)</p>
