@@ -146,10 +146,22 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 </div>
 </details>
 </div>
-<p>
-<br>
-<br>Compliance Module (Deviations &amp; Non-Compliances, SAEs)</p>
+<h4><br><br><strong>Managing Non-Compliance Events </strong>(Study Deviations, Non-Compliances &amp; SAEs)</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>How to report and manage Non-Compliance Events</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>This Guidebook provides Users with an overview of how Non-Compliance Events
+(such as Study Deviations, Non-Compliance Events and Serious Adverse Events)
+are to be reported, reviewed and processed in the ECOS system.</p>
+<p>(Last updated 1 August 2024)</p>
 <p></p>
 <p>Download here</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <p></p>
