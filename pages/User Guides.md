@@ -141,7 +141,7 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 </div>
 </details>
 </div>
-<h4><br><strong>Managing Non-Compliance Events </strong>(Study Deviations, Non-Compliances &amp; SAEs)</h4>
+<h4><br><strong>Managing Safety &amp; Non-Compliance Events </strong>(Study Deviations, Non-Compliances &amp; SAEs)</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>How to report and manage Non-Compliance Events</summary>
