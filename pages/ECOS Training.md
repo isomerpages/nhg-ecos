@@ -22,11 +22,7 @@ session.</p>
 <p>The April Webinar series has concluded.</p>
 </li>
 <li>
-<p>We will announce the next series of ECOS Training Webinars when details
-become available.&nbsp;</p>
-</li>
-<li>
-<p>You can also subscribe to the <strong><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List</u></a></strong><em>&nbsp;</em>if
+<p>You may subscribe to the <strong><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List</u></a></strong><em>&nbsp;</em>if
 you wish to be notified of future webinars and other ECOS-related announcements.&nbsp;</p>
 </li>
 </ul>
@@ -42,19 +38,4 @@ you wish to be notified of future webinars and other ECOS-related announcements.
 </li>
 </ul>
 <p></p>
-<p><strong>IMPORTANT</strong>​</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>There are <strong>limited slots available</strong> for each Webinar, and
-registration is on a <strong><em>“First-Come-First Served”</em></strong> basis.</p>
-</li>
-<li>
-<p>Interested participants need <strong>only attend any <u>ONE</u></strong> of
-the four webinars as <strong>each Webinar's content is the same</strong>.&nbsp;</p>
-</li>
-<li>
-<p>Registration for each Webinar will close once all of the Zoom Webinar's&nbsp;available
-slots have been taken up.</p>
-</li>
-</ul>
 <p>&nbsp;</p>
