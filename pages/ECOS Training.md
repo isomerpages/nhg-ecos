@@ -4,7 +4,7 @@ permalink: /training/
 variant: tiptap
 description: ""
 ---
-<h4><strong>ECOS ONBOARDING TRAINING WEBINARS</strong></h4>
+<h4><strong>ECOS Onboarding Training Webinars</strong></h4>
 <p>Organized by the NHG Office of Human Research Protection Programme (OHRPP),
 the ECOS Onboarding Training Webinars are intended to introduce new Ethics
 &amp; Compliance Online System (ECOS) and its various functionalities to
