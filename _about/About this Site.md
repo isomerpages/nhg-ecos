@@ -4,25 +4,32 @@ permalink: /about-this-site/
 variant: tiptap
 description: ""
 ---
-<p><strong>About this Site - ECOS End-User Support Portal for NHG Research Community</strong>
+<p><strong>About this Site: ECOS End-User Support Portal for NHG Research Community</strong>
 </p>
-<p>The ECOS End-User Support Portal is intended to provide the NHG &amp;
-NUHS Research Communities, our Partner Institutions and Industry Partners
-with information about the ECOS system, and how the research community
-may use the ECOS System to prepare and submit their research ethics applications
-to the NHG Domain Specific Review Board (NHG-DSRB).</p>
+<p>The ECOS End-User Support Portal is intended to provide National Healthcare
+Group (NHG) and National University Health System (NUHS) Research Communities,
+our Partner Institutions and Industry collaborators, with pertinent information
+about the ECOS system, and how researchers may use the ECOS System to prepare
+and submit their research ethics applications to the NHG Domain Specific
+Review Board (NHG-DSRB).</p>
 <p></p>
-<p>This Portal is maintained by the NHG Office of Human Research Protection
-Programme (OHRPP), a unit of NHG Group Research &amp; Innovation, and is
-hosted on <a href="https://www.isomer.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Isomer</a> by
-Open Government Products, Government Technology Agency Singapore.</p>
+<p>All ECOS-related Announcements, News and user guide releases will be made
+available here on this&nbsp;website. You can also subscribe to our <a href="https://staging.d2cs9ly6lkgkcv.amplifyapp.com/mailinglist/" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List (here)</u></a> to
+receive regular ECOS updates.</p>
 <p></p>
+<p>This website is maintained by the Office of Human Research Protection
+Programme (OHRPP), a unit of the Group Research &amp; Innovation (GRI),
+National Healthcare Group (NHG).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>About NHG Group Research &amp; Innovation (GRI)</p>
+<p><a href="https://corp.nhg.com.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Learn more about the National Healthcare Group (NHG) here</a>.</p>
 </li>
 <li>
-<p>About NHG Office of Human Research Protection Programme (OHRPP)</p>
+<p>Learn more about the NHG Group Research &amp; Innovation (GRI) here.</p>
+</li>
+<li>
+<p>Learn more about the NHG Office of Human Research Protection Programme
+(OHRPP) here.</p>
 </li>
 </ul>
 <p></p>
