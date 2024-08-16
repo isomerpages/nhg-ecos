@@ -37,8 +37,6 @@ related activities.
 </li>
 </ul>
 <p>
-<br>All of the announcements, news and user guides related to the ECOS system
-will be made available here on this&nbsp;website. Alternatively, you can
-subscribe to our <a href="https://staging.d2cs9ly6lkgkcv.amplifyapp.com/mailinglist/" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List (here)</u></a> to
-receive regular ECOS updates.</p>
+<br>
+</p>
 <p></p>
