@@ -25,7 +25,7 @@ sections:
           - title: Contact ECOS Helpdesk
             url: /contact-us/
   - resources:
-      title: Announcements
+      title: Announcements, News & User Guide releases
       id: resources
       button: See more here
 ---
