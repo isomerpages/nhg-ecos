@@ -29,11 +29,11 @@ you wish to be notified of future webinars and other ECOS-related announcements.
 <h4><strong>Webinar Learning Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Training/ECOS_Training_Webinar_Slides_22_April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECOS Webinar Slides (22 April 2024)</a>
+<p><a href="/files/Training/ECOS_Training_Webinar_Slides_22_April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the ECOS Webinar Slides (dated 22 April 2024)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Training/ECOS_How_to_access_ECOS_Webinar_Recording_on_NHG_eLearn.pdf" rel="noopener noreferrer nofollow" target="_blank">How NHG Staff can access the ECOS Webinar Recording</a>
+<p><a href="/files/Training/ECOS_How_to_access_ECOS_Webinar_Recording_on_NHG_eLearn.pdf" rel="noopener noreferrer nofollow" target="_blank">Download a Guide to how NHG Staff can access the ECOS Webinar Recording</a>
 </p>
 </li>
 </ul>
