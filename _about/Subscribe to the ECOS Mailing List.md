@@ -4,8 +4,8 @@ permalink: /mailinglist/
 variant: tiptap
 description: ""
 ---
-<p>You may subscribe to the ECOS Mailing List to receive regular email updates
-on the latest ECOS Announcements, User Guides and News.</p>
+<p>You may subscribe to the ECOS Mailing List to receive regular updates
+on the latest ECOS Announcements, News and User Guide releases.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank">Subscribe to the ECOS Mailing List here</a> (via
