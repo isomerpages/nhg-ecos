@@ -22,19 +22,23 @@ institutions, and researchers to have a one stop oversight of research
 related activities.
 <br>
 <br>ECOS is now available with the following modules:</p>
-<p>• Institutional Review Board (IRB) Module</p>
-<p>• Researcher Minimum Training Module</p>
-<p>• Clinical Research Management System (CRMS)</p>
-<p>• Financial Conflict of Interest (FCOI) (NHG-only) Module</p>
-<p></p>
-<p>Features such as the Export and Track Change functions will be available
-to users at a later time.&nbsp;Quality &amp; Compliance modules are being
-developed to launch in the latter part of 2024.
-<br>
-<br>Ongoing IRB approved studies in ROAM and iSHaRE are also being transited
-into ECOS in phases.&nbsp;Please refrain from editing these migrating studies
-in ECOS as your work may not be saved.
-<br>
-<br>All posted announcements, news and guides related to the ECOS system will
-be made available here on this&nbsp;portal.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Institutional Review Board (IRB) Module</p>
+</li>
+<li>
+<p>Researcher Minimum Training Module</p>
+</li>
+<li>
+<p>Clinical Research Management System (CRMS)</p>
+</li>
+<li>
+<p>Financial Conflict of Interest (FCOI) (NHG-only) Module</p>
+</li>
+</ul>
+<p>
+<br>All of the announcements, news and user guides related to the ECOS system
+will be made available here on this&nbsp;website. Alternatively, you can
+subscribe to our <a href="https://staging.d2cs9ly6lkgkcv.amplifyapp.com/mailinglist/" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List (here)</u></a> to
+receive regular ECOS updates.</p>
 <p></p>
