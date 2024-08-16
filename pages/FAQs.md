@@ -16,3 +16,5 @@ updated 16 Aug 2024)</p>
 </ul>
 <p>We recommend that you check back here regularly to obtain the latest version
 available.</p>
+<p>Alternatively, you can subscribe to our <a href="/mailinglist/" rel="noopener noreferrer nofollow" target="_blank">ECOS Mailing List here</a> to receive the latest ECOS
+Announcements and News</p>
