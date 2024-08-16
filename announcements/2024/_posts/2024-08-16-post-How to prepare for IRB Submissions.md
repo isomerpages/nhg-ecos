@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>This quick guide explains how to successfully prepare for an IRB submission,
-in particular, by looking at the User Profiles, Minimum Training and FCOI
-Declaration requirements. (Last updated: 16 August 2024)</p>
+<p>This ECOS Quick Guide explains how to successfully prepare for an IRB
+submission, in particular, by looking at the User Profiles, Minimum Training
+and FCOI Declaration requirements. (Last updated: 16 August 2024)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/Announce_How_to_Prepare_for_IRB_Submissions_16_Aug_2024.png">
