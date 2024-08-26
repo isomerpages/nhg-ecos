@@ -4,7 +4,7 @@ title: ECOS End-User Support Portal for NHG Research Community
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: This Site is currently under construction.
+notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: ECOS End-User Support Portal for NHG Research Community
