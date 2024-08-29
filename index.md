@@ -1,32 +1,31 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: ECOS End-User Support Portal for NHG Research Community
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: ECOS End-User Support Portal for NHG Research Community
+      background: /images/Hero Banner Images/Aqua_Red.jpg
+      variant: center
+      backgroundColor: gray
+      size: md
+      alignment: left
+      dropdown:
+        title: Shortcuts...
+        options:
+          - title: Login to ECOS
+            url: https://www.ecos-research.com.sg/login
+          - title: Latest News & Announcements
+            url: /announcements/
+          - title: ECOS User Guides
+            url: /userguides/
+          - title: Contact ECOS Helpdesk
+            url: /contact-us/
+  - resources:
+      title: Announcements, News & User Guide releases
+      id: resources
+      button: See more here
 ---
-

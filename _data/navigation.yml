@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/ECOS Logo/ecosNHGlogo.png
 links:
-  - title: Contact Us
+  - title: About
+    collection: about
+  - title: Announcements
+    resource_room: true
+  - title: FAQs
+    url: /faqs/
+  - title: User Guides
+    url: /userguides/
+  - title: Training
+    url: /training/
+  - title: Helpdesk
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Login
+    url: https://www.ecos-research.com.sg/login
