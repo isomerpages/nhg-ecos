@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>ECOS End-User Support Portal</strong></h4>
-<p>The ECOS End-User Support Portal is intended to provide the <strong>National Healthcare Group (NHG)</strong> and <strong>National University Health System (NUHS)</strong> Research
+<p>The <strong>ECOS End-User Support Portal</strong> is intended to provide
+the <strong>National Healthcare Group (NHG)</strong> and <strong>National University Health System (NUHS)</strong> Research
 Communities, our Partner Institutions and Industry collaborators, with
 pertinent information about the ECOS system, and how researchers may use
 the ECOS System to prepare and submit their research ethics applications
