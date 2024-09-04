@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>ECOS Maintenance Notice</strong></h4>
+<h4><strong>ECOS Service Disruption Notice</strong></h4>
 <p>Please be informed that ECOS will be unavailable during the following
 period due to system maintenance.</p>
 <table style="minWidth: 50px">
@@ -18,7 +18,7 @@ period due to system maintenance.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>STARTS FROM: </h4>
+<h4>STARTS FROM:</h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4><strong>Wed, 4 Sep 2024, 8pm</strong></h4>
