@@ -7,7 +7,7 @@ description: ""
 <h4><strong>INTRODUCING THE ETHICS AND COMPLIANCE ONLINE SYSTEM&nbsp;(ECOS)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECOS Logo/ECOS_Logo_Sm.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/ECOS Logo/ECOS_Logo_Sm.jpg">
 </div>
 <p></p>
 <p></p>
@@ -34,6 +34,24 @@ related activities.
 </li>
 <li>
 <p>Financial Conflict of Interest (FCOI) (NHG-only) Module</p>
+</li>
+<li>
+<p>Compliance (Deviation / Non-Compliance &amp; Serious Adverse Event) Module</p>
+</li>
+</ul>
+<p>These remaining ECOS modules will be launched progressively:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Compliance (PI Self-Assessment Form) Module</p>
+</li>
+<li>
+<p>Standing Database (SDB) (NHG-only) Module</p>
+</li>
+<li>
+<p>Monitoring Module</p>
+</li>
+<li>
+<p>Audit Module</p>
 </li>
 </ul>
 <p>
