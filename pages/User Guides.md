@@ -9,10 +9,7 @@ to assist and guide the NHG &amp; NUHS Research Communities, our Partner
 Institutions and Industry Partners when they are using the ECOS system.</p>
 <p>You can also use the Seach Function (found on the page's top-right corner)
 to locate the information you need.</p>
-<p>Do check back regularly for updates and new additions. Alternatively,
-you can subscribe to our <a href="https://staging.d2cs9ly6lkgkcv.amplifyapp.com/mailinglist/" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List (here)</u></a> to
-receive regular updates on the latest ECOS Announcements, News and User
-Guide releases.</p>
+<p>Do check back regularly for updates and new additions.</p>
 <p></p>
 <h4><strong>General ECOS Functionality &amp; Overview</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
