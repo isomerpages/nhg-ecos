@@ -141,15 +141,13 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 </div>
 </details>
 </div>
-<h4><br><strong>Managing Safety &amp; Non-Compliance Events </strong>(Study Deviations, Non-Compliances &amp; SAEs)</h4>
+<h4><br><strong>Responding to the NHG Research Institution for Deviation/ Non-Compliance &amp; Serious Adverse Events from HBR Studies</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>How to report and manage Non-Compliance Events</summary>
+<summary>How to manage DNC &amp; SAE from HBR Studies</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This Guidebook provides Users with an overview of how Non-Compliance Events
-(such as Study Deviations, Non-Compliance Events and Serious Adverse Events)
-are to be reported, reviewed and processed in the ECOS system. (Last updated
-1 August 2024)</p>
+<p>This guidebook provides Users with a step-by-step guidance to help users
+navigate the module. (Last updated 1 August 2024)</p>
 <p><a href="/files/User Guides/Managing Non Compliance Events/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
