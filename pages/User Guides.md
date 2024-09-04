@@ -69,7 +69,7 @@ studies. (Last updated 9 May 2024)</p>
 <p>This quick guide explains how to successfully prepare for an IRB submission,
 in particular, by looking at the User Profiles, Minimum Training and FCOI
 Declaration requirements. (Last updated: 13 August 2024)</p>
-<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_How_to_Prepare_for_IRB_Submissions_13_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_How_to_Prepare_for_IRB_Submissions_16_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
