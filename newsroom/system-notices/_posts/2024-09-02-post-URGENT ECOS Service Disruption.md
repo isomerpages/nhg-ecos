@@ -1,15 +1,15 @@
 ---
-title: ECOS Maintenance Notice
-permalink: /ecos-maintenance-notice/
+title: URGENT ECOS Service Disruption
+permalink: /service-disruption-20240904/
 date: 2024-09-02
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>ECOS Maintenance Notice</strong></h4>
-<p>Please be informed that ECOS will be unavailable during the following
-period due to system maintenance.</p>
+<h4><strong>ECOS Service Disruption Notice</strong></h4>
+<p>Please be informed that ECOS will be unavailable/closed during the following
+period:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,7 +18,7 @@ period due to system maintenance.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>STARTS FROM: </h4>
+<h4>STARTS FROM:</h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4><strong>Wed, 4 Sep 2024, 8pm</strong></h4>
@@ -34,6 +34,5 @@ period due to system maintenance.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>ECOS Users are strongly advised to avoid using the ECOS system during
 this period.</p>

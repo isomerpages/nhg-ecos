@@ -28,4 +28,20 @@ sections:
       title: Announcements, News & User Guide releases
       id: resources
       button: See more here
+  - announcements:
+      title: ECOS System  Notices
+      id: announcements
+      announcement_items:
+        - title: Regular System Maintenance Schedule
+          date: 01 September 2024
+          announcement: ECOS is scheduled for regular System Maintenance every Wednesday
+            from 10pm to 12 midnight.
+          link_text: Learn more
+          link_url: /notice-of-regular-scheduled-maintenance-for-ecos/
+        - title: ECOS Service Disruption
+          date: 02 September 2024
+          announcement: ECOS will be unavailable from Wed, 4 Sep 2024, 8pm to Thu, 5 Sep
+            2024, 7am due to system maintenance.
+          link_text: Learn more
+          link_url: /service-disruption-20240904/
 ---
