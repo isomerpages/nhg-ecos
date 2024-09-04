@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - abt gri.md
       - About ECOS.md
       - About this Site.md
