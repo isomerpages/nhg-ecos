@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <h4><strong>ECOS Service Disruption Notice</strong></h4>
-<p>Please be informed that ECOS will be unavailable during the following
-period due to system maintenance.</p>
+<p>Please be informed that ECOS will be unavailable/closed during the following
+period:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
