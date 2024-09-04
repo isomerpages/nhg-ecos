@@ -19,7 +19,7 @@ sections:
           - title: Login to ECOS
             url: https://www.ecos-research.com.sg/login
           - title: Latest Announcements
-            url: /announcements/
+            url: /newsroom/
           - title: ECOS User Guides
             url: /userguides/
           - title: Contact ECOS Helpdesk
