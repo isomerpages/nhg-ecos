@@ -21,10 +21,6 @@ session.</p>
 <li>
 <p>The April Webinar series has concluded.</p>
 </li>
-<li>
-<p>You may subscribe to the <strong><a href="https://for.sg/ecos-mailing-list" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List</u></a></strong><em>&nbsp;</em>if
-you wish to be notified of future webinars and other ECOS-related announcements.&nbsp;</p>
-</li>
 </ul>
 <h4><strong>Webinar Learning Resources</strong></h4>
 <ul data-tight="true" class="tight">
