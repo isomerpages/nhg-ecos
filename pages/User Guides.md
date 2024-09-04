@@ -20,7 +20,8 @@ to locate the information you need.</p>
 can login and create their ECOS User Accounts. It also provides information
 on the NHG Minimum Training requirements and orientates Users to the ECOS
 interface and layout. (Last updated: 7 May 2024)</p>
-<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Creating_New_User_Accounts___General_Overview_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Creating_New_User_Accounts___General_Overview_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Downlo</a>
+<a href="/files/User Guides/General ECOS Functionality/ECOS_Creating_New_User_Accounts___General_Overview_7_May_2024.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/User Guides/General ECOS Functionality/ECOS_Creating_New_User_Accounts___General_Overview_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ad here</a>
 </p>
 <p></p>
 </div>
@@ -42,8 +43,7 @@ updated: 7 May 2024)</p>
 <p>This guidebook introduces the Financial Conflict of Interest (FCOI) Module
 and shows how Users can submit their FCOI Declarations as well as responding
 to queries from the FCOI Secretariat. (Last updated: 7 May 2024)</p>
-<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_FCOI_Declarations_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Downloa</a>
-<a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_FCOI_Declarations_7_May_2024.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_FCOI_Declarations_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">d here</a>
+<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_FCOI_Declarations_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
