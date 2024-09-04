@@ -1,6 +1,6 @@
 title: ECOS End-User Support Portal for NHG Research Community
 url: https://ecossupport.gri.nhg.com.sg
-favicon: /images/ECOS Logo/ecosIcon.png
+favicon: /images/ECOS Logo/favicon-isomer.ico
 colors:
   primary-color: "#21409a"
   secondary-color: "#00828d"
@@ -8,7 +8,7 @@ colors:
     - title: media-color-one
       color: "#d2232a"
     - title: media-color-two
-      color: "#7e0000"
+      color: "#00828d"
     - title: media-color-three
       color: "#00828d"
     - title: media-color-four
@@ -56,4 +56,4 @@ shareicon: /images/isomer-logo.svg
 is_government: false
 google_analytics_ga4: G-XC81FMZ2Q3
 linkedin-insights: ""
-resources_name: announcements
+resources_name: newsroom

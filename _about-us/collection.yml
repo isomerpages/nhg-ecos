@@ -1,7 +1,6 @@
 collections:
-  about:
+  about-us:
     output: true
     order:
       - About ECOS.md
       - About this Site.md
-      - Subscribe to the ECOS Mailing List.md

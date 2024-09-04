@@ -4,15 +4,12 @@ permalink: /userguides/
 variant: tiptap
 description: ""
 ---
-<p>Authored by the NHG OHRPP Staff, these are the ECOS User Guides intended
-to assist and guide the NHG &amp; NUHS Research Communities, our Partner
-Institutions and Industry Partners when they are using the ECOS system.</p>
+<p>These ECOS User Guides are intended to assist and guide the NHG &amp;
+NUHS Research Communities, our Partner Institutions and Industry Partners
+when they are using the ECOS system.</p>
 <p>You can also use the Seach Function (found on the page's top-right corner)
 to locate the information you need.</p>
-<p>Do check back regularly for updates and new additions. Alternatively,
-you can subscribe to our <a href="https://staging.d2cs9ly6lkgkcv.amplifyapp.com/mailinglist/" rel="noopener noreferrer nofollow" target="_blank"><u>ECOS Mailing List (here)</u></a> to
-receive regular updates on the latest ECOS Announcements, News and User
-Guide releases.</p>
+<p>Do check back regularly for updates and new additions.</p>
 <p></p>
 <h4><strong>General ECOS Functionality &amp; Overview</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -72,7 +69,7 @@ studies. (Last updated 9 May 2024)</p>
 <p>This quick guide explains how to successfully prepare for an IRB submission,
 in particular, by looking at the User Profiles, Minimum Training and FCOI
 Declaration requirements. (Last updated: 13 August 2024)</p>
-<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_How_to_Prepare_for_IRB_Submissions_13_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_How_to_Prepare_for_IRB_Submissions_16_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -144,16 +141,14 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 </div>
 </details>
 </div>
-<h4><br><strong>Managing Safety &amp; Non-Compliance Events </strong>(Study Deviations, Non-Compliances &amp; SAEs)</h4>
+<h4><br><strong>Responding to the NHG Research Institution for Deviation/ Non-Compliance &amp; Serious Adverse Events from HBR Studies</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>How to report and manage Non-Compliance Events</summary>
+<summary>How to manage DNC &amp; SAE from HBR Studies</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This Guidebook provides Users with an overview of how Non-Compliance Events
-(such as Study Deviations, Non-Compliance Events and Serious Adverse Events)
-are to be reported, reviewed and processed in the ECOS system. (Last updated
-1 August 2024)</p>
-<p><a href="/files/User Guides/Managing Non Compliance Events/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p>This guidebook provides Users with a step-by-step guidance to help users
+navigate the module. (Last updated 1 August 2024)</p>
+<p><a href="/files/User Guides/Deviation Non Compliance SAE/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
