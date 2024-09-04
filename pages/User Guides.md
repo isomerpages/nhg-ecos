@@ -148,8 +148,7 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This guidebook provides Users with a step-by-step guidance to help users
 navigate the module. (Last updated 1 August 2024)</p>
-<p><a href="/files/User Guides/Managing Non Compliance Events/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
-<a href="/files/User Guides/Deviation Non Compliance SAE/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><a href="/files/User Guides/Deviation Non Compliance SAE/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
