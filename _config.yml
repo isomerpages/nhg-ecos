@@ -2,11 +2,11 @@ title: ECOS End-User Support Portal for NHG Research Community
 url: https://ecossupport.gri.nhg.com.sg
 favicon: /images/ECOS Logo/ecosIcon.png
 colors:
-  primary-color: "#7e0000"
-  secondary-color: "#21409a"
+  primary-color: "#21409a"
+  secondary-color: "#00828d"
   media-colors:
     - title: media-color-one
-      color: "#7e0000"
+      color: "#d2232a"
     - title: media-color-two
       color: "#7e0000"
     - title: media-color-three
@@ -15,7 +15,7 @@ colors:
       color: "#00828d"
     - title: media-color-five
       color: "#00828d"
-description: ""
+description: A National Healthcare Group (NHG) site built with Isomer
 permalink: none
 baseurl: ""
 exclude:
@@ -54,6 +54,6 @@ prod: https://master.d2cs9ly6lkgkcv.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
 is_government: false
-google_analytics_ga4: ""
+google_analytics_ga4: G-XC81FMZ2Q3
 linkedin-insights: ""
 resources_name: announcements

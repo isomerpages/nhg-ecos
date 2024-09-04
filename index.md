@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: ECOS End-User Support Portal for NHG Research Community
-description: An Isomer site of the Singapore Government
+description: A National Healthcare Group (NHG) site built with Isomer
 image: /images/isomer-logo.svg
 permalink: /
 notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
