@@ -12,7 +12,8 @@ pertinent information about the ECOS system, and how researchers may use
 the ECOS System to prepare and submit their research ethics applications
 to the <strong>NHG Domain Specific Review Board (DSRB)</strong>.</p>
 <p>All ECOS-related Announcements, News and User Guides will be available
-here on this&nbsp;website.</p>
+here on this&nbsp;website. You can also use the Search Function (found
+on the page's top-right corner) to locate the information you need.</p>
 <p>This website is maintained by the <strong>Office of Human Research Protection Programme (OHRPP)</strong>,
 under the <strong>Group Research &amp; Innovation (GRI)</strong> in the <strong>National Healthcare Group (NHG)</strong>.</p>
 <p></p>
