@@ -24,14 +24,8 @@ sections:
             url: /userguides/
           - title: Contact ECOS Helpdesk
             url: /contact-us/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 04 September 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+  - resources:
+      title: Announcements, News & User Guide releases
+      id: resources
+      button: See more here
 ---
