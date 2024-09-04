@@ -34,6 +34,5 @@ period:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>ECOS Users are strongly advised to avoid using the ECOS system during
 this period.</p>
