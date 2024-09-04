@@ -28,4 +28,15 @@ sections:
       title: Announcements, News & User Guide releases
       id: resources
       button: See more here
+  - announcements:
+      title: ECOS System Maintenance Notices
+      id: announcements
+      announcement_items:
+        - title: System Maintenance
+          date: 04 September 2024
+          announcement: ECOS will be unavailable from Wed, 4 Sep 2024, 8pm to Thu, 5 Sep
+            2024, 7am due to system maintenance. Users are advised to avoid
+            using the ECOS system during this period.
+          link_text: ""
+          link_url: ""
 ---
