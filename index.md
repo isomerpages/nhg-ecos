@@ -35,9 +35,7 @@ sections:
         - title: Regular System Maintenance Schedule
           date: 01 September 2024
           announcement: ECOS is scheduled for regular System Maintenance every Wednesday
-            from 10pm to 12 midnight. ECOS will be unavailable during this
-            period. Users are advised to avoid using the ECOS system during this
-            period.
-          link_text: ""
-          link_url: ""
+            from 10pm to 12 midnight.
+          link_text: Learn more
+          link_url: /notice-of-regular-scheduled-maintenance-for-ecos/
 ---
