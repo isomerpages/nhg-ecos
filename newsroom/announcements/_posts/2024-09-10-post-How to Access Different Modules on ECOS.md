@@ -7,6 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Title</strong></h4>
-<p>This is then noncement test</p>
+<h4><strong>ECOS ANNOUNCEMENT: How to Access Different Modules on ECOS (View and Edit Access Rights)</strong></h4>
+<p></p>
 <p></p>
