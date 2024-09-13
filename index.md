@@ -28,4 +28,15 @@ sections:
       title: Latest Announcements, User Guide Releases & Events
       id: resources
       button: See more here
+  - infopic:
+      title: NHG Group Research & Innovation Educational Mailing List
+      subtitle: Add an image and text
+      id: infopic
+      description: Subscribe to receive regular updates on the latest ECOS
+        Announcements, ECOS User Guide releases and other NHG GRI related
+        education announcements.
+      button: Click here to subscribe via FormSG
+      url: https://form.gov.sg/66e0e6304cccbc8d09706c68
+      image: /images/Content Images/GRI_MailingList_QR_200x200.png
+      alt: GRI Mailing List FormSG QR
 ---
