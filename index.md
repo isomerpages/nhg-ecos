@@ -30,7 +30,6 @@ sections:
       button: See more here
   - infopic:
       title: NHG Group Research & Innovation Educational Mailing List
-      subtitle: Add an image and text
       id: infopic
       description: Subscribe to receive regular updates on the latest ECOS
         Announcements, ECOS User Guide releases and other NHG GRI related
