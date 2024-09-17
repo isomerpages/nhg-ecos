@@ -15,5 +15,5 @@ variant: tiptap
 </p>
 <p><strong>ECOS Modules User Guides:&nbsp;<a href="https://cms.isomer.gov.sg/files/Announcement%20Files/ECOS_How_to_Access_Different_Modules_on_ECOS_11_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/guides</a></strong>
 </p>
-<p><strong>Join Our Mailing List Here:&nbsp; <a href="https://cms.isomer.gov.sg/files/Announcement%20Files/ECOS_How_to_Access_Different_Modules_on_ECOS_11_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/ohrppmail</a></strong>
+<p><strong>Join Our Mailing List Here:&nbsp; <a href="https://cms.isomer.gov.sg/files/Announcement%20Files/ECOS_How_to_Access_Different_Modules_on_ECOS_11_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/grimail</a></strong>
 </p>
