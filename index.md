@@ -2,7 +2,7 @@
 layout: homepage
 title: ECOS End-User Support Portal for NHG Research Community
 description: A National Healthcare Group (NHG) site built with Isomer
-image: /images/isomer-logo.svg
+image: /images/ECOS Logo/NHG_Favicon.png
 permalink: /
 notification: ""
 sections:
