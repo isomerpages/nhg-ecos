@@ -8,7 +8,7 @@ notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: ECOS End-User Support Portal for NHG Research Community
-      background: /images/Hero Banner Images/hero-banner.png
+      background: /images/Hero Banner Images/Fabric_of_Life_Design.png
       variant: center
       backgroundColor: gray
       size: md
@@ -28,4 +28,14 @@ sections:
       title: Latest Announcements, User Guide Releases & Events
       id: resources
       button: See more here
+  - infopic:
+      title: NHG Group Research & Innovation Educational Mailing List
+      id: infopic
+      description: Subscribe to receive regular updates on the latest ECOS
+        Announcements, ECOS User Guide releases and other NHG GRI related
+        education announcements.
+      button: Join here or scan the QR Code
+      url: https://form.gov.sg/66e0e6304cccbc8d09706c68
+      image: /images/Content Images/GRI_MailingList_QR_200x200.png
+      alt: GRI Mailing List FormSG QR
 ---
