@@ -8,7 +8,7 @@ notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: ECOS End-User Support Portal for NHG Research Community
-      background: /images/Hero Banner Images/hero-banner.png
+      background: /images/Hero Banner Images/Fabric_of_Life_Design.png
       variant: center
       backgroundColor: gray
       size: md
