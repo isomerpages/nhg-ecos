@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <p><strong>Download the PDF version here: <a href="/files/Announcement Files/ECOS_How_to_Access_Different_Modules_on_ECOS_17_Sep_24.pdf" rel="noopener nofollow" target="_blank">file</a></strong>
 </p>
-<p><strong>ECOS Modules User Guides:&nbsp;<a href="https://cms.isomer.gov.sg/files/Announcement%20Files/ECOS_How_to_Access_Different_Modules_on_ECOS_11_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/guides</a></strong>
+<p><strong>ECOS Modules User Guides:&nbsp;<a href="https://for.sg/guides" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/guides</a></strong>
 </p>
-<p><strong>Join Our Mailing List Here:&nbsp; <a href="https://cms.isomer.gov.sg/files/Announcement%20Files/ECOS_How_to_Access_Different_Modules_on_ECOS_11_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/grimail</a></strong>
+<p><strong>Join Our Mailing List Here:&nbsp; <a href="https://for.sg/grimail" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/grimail</a></strong>
 </p>
