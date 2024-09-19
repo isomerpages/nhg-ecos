@@ -61,7 +61,11 @@ of innovative MedTech solutions that can address unmet healthcare needs
 and contribute to improved patient and healthcare outcomes. This is achieved
 through a structured framework that includes funding, talent development,
 and partnerships with academic and industry leaders.</p>
-<p>Learn <strong><a href="https://innovation.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about CMTi here</a></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more <a href="https://corp.nhg.com.sg/CMTI/Pages/default.aspx" rel="noopener nofollow" target="_blank"><u>about CMTi here</u></a>.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
@@ -76,7 +80,7 @@ of talents; and groom the next generation of research leaders and mentors.</p>
 <p>Collaborating with academic and research institutions, our efforts strengthen
 the national pool of clinician scientists and innovators who in turn bring
 scientific research from the bench to beside.</p>
-<p>Learn <strong><a href="https://talentdev.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about CSDO here</a></strong>.</p>
+<p>Learn more <a href="https://talentdev.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">about CSDO here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -91,7 +95,11 @@ maintaining high standards through international accreditation. OHRPP also
 engages in public outreach to promote awareness and understanding of participant
 rights in research. This commitment supports the ethical and effective
 conduct of research within NHG.</p>
-<p>Learn <strong><a href="https://ethics.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about OHRPP here</a></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more <a href="https://ethics.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">about OHRPP here</a>.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
@@ -129,8 +137,7 @@ vision and mission.</p>
 </details>
 </div>
 <p></p>
-<p>Learn <a href="https://gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about NHG Group Research &amp; Innovation (GRI) and what we do.</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
