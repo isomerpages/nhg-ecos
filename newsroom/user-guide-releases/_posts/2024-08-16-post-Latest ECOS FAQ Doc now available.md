@@ -11,7 +11,7 @@ variant: tiptap
 now available.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/FAQ/ECOS_Launch_FAQ__13_6_Aug_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/FAQ/ECOS_Launch_FAQ__14___16_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </li>
 </ul>
