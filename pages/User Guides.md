@@ -170,17 +170,20 @@ a step-by-step guide on the IR &amp; DR Ethics Submission Endorsement process.
 </details>
 </div>
 <p></p>
-<h4><strong>Principal Investigator Self-Assessment Form (PISAF) &amp; Study Closure Checklist (SCC)</strong></h4>
+<h4><strong>Research Quality Programmes</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>How to complete the PISAF &amp; SCC on Compliance Module</summary>
+<summary>How to complete the PISAF &amp; SCC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The PISAF is a tool developed by NHG Research Quality Management (RQM)
-Unit for Principal Investigators (PIs) to conduct self-assessments. This
-guidebook is intended for PI and study team. It provides information and
-a step-by-step guide on the submission process. (Last updated 27 Sep 2024)</p>
-<p>Download here for the <a href="/files/User Guides/PISAF &amp; SCC/ECOS_User_Guide___Compliance__PISAF__Module__Ver1__26_Sep_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF User Guide</a> and
-<a href="/files/User Guides/PISAF &amp; SCC/ECOS_User_Guide___Compliance__PISAF_SCC__Module__Ver1__26_Sep_24___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC User Guide</a>.</p>
+<p>This guidebook contains step-by-step guidance for PIs/ Site-PIs/ Co-Investigators
+and Study Team Members to navigate the module interface and to complete
+the submission process for the PISAF/ SCC on ECOS Compliance module.</p>
+<p>Only selected PIs will be informed to complete the PISAF/SCC.</p>
+<p>(Last updated: 27 Sep 2024)</p>
+<p><a href="/files/User Guides/PISAF &amp; SCC/ECOS_User_Guide___Compliance__PISAF__Module__Ver1__26_Sep_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF - Download here </a>
+</p>
+<p><a href="/files/User Guides/PISAF &amp; SCC/ECOS_User_Guide___Compliance__PISAF_SCC__Module__Ver1__26_Sep_24___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC - Download here</a>
+</p>
 </div>
 </details>
 </div>
