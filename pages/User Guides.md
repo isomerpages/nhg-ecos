@@ -170,3 +170,18 @@ a step-by-step guide on the IR &amp; DR Ethics Submission Endorsement process.
 </details>
 </div>
 <p></p>
+<h4><strong>Principal Investigator Self-Assessment Form (PISAF) &amp; Study Closure Checklist (SCC)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>How to complete the PISAF &amp; SCC on Compliance Module</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The PISAF is a tool developed by NHG Research Quality Management (RQM)
+Unit for Principal Investigators (PIs) to conduct self-assessments. This
+guidebook is intended for PI and study team. It provides information and
+a step-by-step guide on the submission process. (Last updated 27 Sep 2024)</p>
+<p>Download here for the <a href="/files/User Guides/PISAF &amp; SCC/ECOS_User_Guide___Compliance__PISAF__Module__Ver1__26_Sep_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF User Guide</a> and
+<a href="/files/User Guides/PISAF &amp; SCC/ECOS_User_Guide___Compliance__PISAF_SCC__Module__Ver1__26_Sep_24___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC User Guide</a>.</p>
+</div>
+</details>
+</div>
+<p></p>
