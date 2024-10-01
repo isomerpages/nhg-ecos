@@ -23,5 +23,5 @@ Form (SRF). (Last updated 30 September 2024)</p>
 <p><a href="/files/User Guides/SDB/SDB_Guidebook____Forms.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
-<p>See more ECOS User Guides here.</p>
+<p>See more <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">ECOS User Guides here</a>.</p>
 <p></p>
