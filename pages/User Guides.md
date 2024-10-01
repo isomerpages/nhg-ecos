@@ -141,7 +141,8 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 </div>
 </details>
 </div>
-<h4><br><strong>Responding to the NHG Research Institution for Deviation/ Non-Compliance &amp; Serious Adverse Events from HBR Studies</strong></h4>
+<p></p>
+<h4><strong>Responding to the NHG Research Institution for Deviation/ Non-Compliance &amp; Serious Adverse Events from HBR Studies</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>How to manage DNC &amp; SAE from HBR Studies</summary>
@@ -151,6 +152,31 @@ navigate the module. (Last updated 1 August 2024)</p>
 <p><a href="/files/User Guides/Deviation Non Compliance SAE/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>Standing Database (SDB) Submissions</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>SDB User Module Guide</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This guide provides Users with step-by-step guidance on the submission
+of an SDB application and navigation of the module. (Last updated 30 September
+2024)</p>
+<p><a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>SDB Forms Guidebook</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This guidebook provides a complete listing of all the Questions in the
+SDB Application Form, Non-Compliance Report (NCR) Form and Status Report
+Form (SRF). (Last updated 30 September 2024)</p>
+<p><a href="/files/User Guides/SDB/SDB_Guidebook____Forms.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 </div>
 </details>
 </div>
