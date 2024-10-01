@@ -140,6 +140,15 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>How to Access Different Modules on ECOS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This quick guide explains how researchers can access different modules
+on ECOS. (Last updated: 18 Sep 2024)</p>
+<p><a href="/files/Announcement Files/ECOS_How_to_Access_Different_Modules_on_ECOS_17_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here.</a>
+</p>
+</div>
+</details>
 </div>
 <p></p>
 <h4><strong>Responding to the NHG Research Institution for Deviation/ Non-Compliance &amp; Serious Adverse Events from HBR Studies</strong></h4>
