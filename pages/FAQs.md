@@ -9,8 +9,8 @@ description: ""
 they become available.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/FAQ/ECOS_Launch_FAQ__14___16_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the ECOS FAQ Doc #14 here</a> (Last
-updated 16 Aug 2024)</p>
+<p>Download the ECOS FAQ doc #15 <a href="/files/FAQ/ECOS_Launch_FAQ__15_1_Oct_24__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>(Last
+updated 1 Oct 2024)</p>
 </li>
 </ul>
 <p>We recommend that you check back here regularly to obtain the latest version
