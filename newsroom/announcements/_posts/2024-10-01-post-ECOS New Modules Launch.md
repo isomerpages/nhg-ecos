@@ -7,12 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The Standing Database (SDB) and Compliance (PISAF) modules are now <strong><u>LIVE</u></strong> on
-ECOS!</p>
+<h4><strong>The Standing Database (SDB) and Compliance (PISAF) modules are now <u>LIVE</u> on ECOS!</strong></h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/ECOS_EDM_PISAF_SDB_Module_Launch_1Oct24.png">
+</div>
 <p></p>
-<p><strong>Download the PDF version here.</strong>
+<p><strong>Download the PDF version <a href="/files/Announcement Files/ECOS_EDM_PISAF_SDB_Module_Launch_1Oct24.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <p><strong>Check out the </strong><a href="https://ecossupport.gri.nhg.com.sg/how-to-prepare-for-sdb-submissions/" rel="noopener nofollow" target="_blank">SDB User Guide</a><strong> and </strong>
 <a href="https://ecossupport.gri.nhg.com.sg/how-to-complete-the-pisaf-scc/" rel="noopener nofollow" target="_blank">PISAF User Guide</a><strong> here.</strong>
