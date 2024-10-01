@@ -7,7 +7,7 @@ description: ""
 <p>These ECOS User Guides are intended to assist and guide the NHG &amp;
 NUHS Research Communities, our Partner Institutions and Industry Partners
 when they are using the ECOS system.</p>
-<p>You can also use the Seach Function (found on the page's top-right corner)
+<p>You can also use the Search Function (found on the page's top-right corner)
 to locate the information you need.</p>
 <p>Do check back regularly for updates and new additions.</p>
 <p></p>
