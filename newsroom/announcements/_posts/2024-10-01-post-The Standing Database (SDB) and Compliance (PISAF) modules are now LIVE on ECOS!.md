@@ -8,9 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>The Standing Database (SDB) and Compliance (PISAF) modules are now <u>LIVE</u> on ECOS!</strong></h4>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/ECOS_EDM_PISAF_SDB_Module_Launch_1Oct24.png">
 </div>
