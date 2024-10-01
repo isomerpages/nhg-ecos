@@ -16,8 +16,7 @@ variant: tiptap
 <p></p>
 <p><strong>Download the PDF version <a href="/files/Announcement Files/ECOS_EDM_PISAF_SDB_Module_Launch_1Oct24.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
-<p><strong>Check out the </strong><a href="https://ecossupport.gri.nhg.com.sg/how-to-prepare-for-sdb-submissions/" rel="noopener nofollow" target="_blank">SDB User Guide</a><strong> and </strong>
-<a href="https://ecossupport.gri.nhg.com.sg/how-to-complete-the-pisaf-scc/" rel="noopener nofollow" target="_blank">PISAF User Guide</a><strong> here.</strong>
+<p><strong>Check out the <a href="https://ecossupport.gri.nhg.com.sg/how-to-prepare-for-sdb-submissions/" rel="noopener nofollow" target="_blank">SDB User Guide</a> and <a href="https://ecossupport.gri.nhg.com.sg/how-to-complete-the-pisaf-scc/" rel="noopener nofollow" target="_blank">PISAF User Guide</a> here.</strong>
 </p>
 <p><strong>Click <a href="https://for.sg/grimail" rel="noopener nofollow" target="_blank"><u>here </u></a>to join our NHG GRI Educational Mailing List</strong>
 </p>
