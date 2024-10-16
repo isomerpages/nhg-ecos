@@ -18,7 +18,7 @@ of an SDB application and navigation of the module. (Last updated 30 September
 </p>
 <p>This guidebook provides a complete listing of all the Questions in the
 SDB Application Form, Non-Compliance Report (NCR) Form and Status Report
-Form (SRF). (Last updated 30 September 2024)</p>
+Form (SRF). (Last updated 10 October 2024)</p>
 <p></p>
 <p>Refer to the<a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank"> User Guides here</a>.</p>
 <p></p>
