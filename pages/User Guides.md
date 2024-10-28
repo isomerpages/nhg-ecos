@@ -177,12 +177,11 @@ guidance on the endorsement of an SDB application and navigation of the
 module.</p>
 <p>These guides are only applicable to NHG and NUHS users (Last update on
 25 October 2024).</p>
-<p>For Users – Download here.</p>
+<p>For Users – <a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
 <p>For Endorsers (RDOC/DR/IR) – Download here.</p>
 <p></p>
 <p></p>
-<p><a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
-</p>
+<p></p>
 <p></p>
 </div>
 </details>
