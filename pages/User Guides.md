@@ -178,7 +178,7 @@ module.</p>
 <p>These guides are only applicable to NHG and NUHS users (Last update on
 25 October 2024).</p>
 <p>For Users – <a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
-<p>For Endorsers (RDOC/DR/IR) – Download here.</p>
+<p>For Endorsers (RDOC/DR/IR) – <a href="/files/User Guides/SDB/ECOS_Training___SDB_Module_Endorser.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
 <p></p>
 <p></p>
 <p></p>
