@@ -170,9 +170,17 @@ navigate the module. (Last updated 1 August 2024)</p>
 <details class="isomer-details">
 <summary>SDB User Module Guide</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This guide provides Users with step-by-step guidance on the submission
-of an SDB application and navigation of the module. (Last updated 30 September
-2024)</p>
+<p>A. For Users - This guide provides Users with step-by-step guidance on
+the submission of an SDB application and navigation of the module.</p>
+<p>B. For Endorsers (ROC/DR/IR) – This guide provides endorsers with step-by-step
+guidance on the endorsement of an SDB application and navigation of the
+module.</p>
+<p>These guides are only applicable to NHG and NUHS users (Last update on
+25 October 2024).</p>
+<p>For Users – Download here.</p>
+<p>For Endorsers (RDOC/DR/IR) – Download here.</p>
+<p></p>
+<p></p>
 <p><a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
