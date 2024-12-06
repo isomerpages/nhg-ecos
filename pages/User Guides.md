@@ -233,16 +233,16 @@ the submission process for the PISAF/ SCC on ECOS Compliance module.</p>
 <details class="isomer-details">
 <summary>ECOS Monitoring module</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p>&nbsp;This guidebook introduces the ECOS Monitoring module, and provides
-guidance to <strong>Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site PI)/ Co-Investigator (Co-I) and Study Team Member (STM)</strong>&nbsp;on
+<p>This guidebook introduces the ECOS Monitoring module, and provides guidance
+to <strong>Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site PI)/ Co-Investigator (Co-I) and Study Team Member (STM)</strong>&nbsp;on
 how to navigate the module.</p>
 <p>(Last updated: 9 December 2024)</p>
 <p><strong><a href="/files/User Guides/PISAF &amp; SCC/ecos_user_guide_compliance_monitoring_module.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a></strong>
 </p>
+</div>
+</details>
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary></summary>
