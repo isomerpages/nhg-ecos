@@ -213,7 +213,7 @@ a step-by-step guide on the IR &amp; DR Ethics Submission Endorsement process.
 </div>
 <p></p>
 <h4><strong>Research Quality Programmes</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>How to complete the PISAF &amp; SCC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -225,6 +225,19 @@ the submission process for the PISAF/ SCC on ECOS Compliance module.</p>
 <p><a href="/files/User Guides/PISAF &amp; SCC/ECOS_User_Guide___Compliance__PISAF__Module__Ver1__26_Sep_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF - Download here</a>
 </p>
 <p><a href="/files/User Guides/PISAF &amp; SCC/ECOS_User_Guide___Compliance__PISAF_SCC__Module__Ver1__26_Sep_24___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC - Download here</a>
+</p>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ECOS Monitoring module</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This guidebook introduces the ECOS Monitoring module, and provides guidance
+to <strong>Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site PI)/ Co-Investigator (Co-I) and Study Team Member (STM)</strong>&nbsp;on
+how to navigate the module.</p>
+<p>(Last updated: 9 December 2024)</p>
+<p><strong><a href="/files/User Guides/PISAF &amp; SCC/ecos_user_guide_compliance_monitoring_module.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a></strong>
 </p>
 </div>
 </details>
