@@ -249,7 +249,7 @@ navigate the module.</p>
 to Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site
 PI)/ Co-Investigator (Co-I) and Study Team Member (STM)&nbsp;on how to
 navigate the module.</p>
-<p>(Last updated: 20 December 2024)</p>
+<p>(Last updated: 23 December 2024)</p>
 <p><a href="/files/User Guides/compliance_audit.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a>
 </p>
 </div>
