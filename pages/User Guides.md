@@ -243,3 +243,21 @@ how to navigate the module.</p>
 </details>
 </div>
 <p></p>
+<h4><strong>Audit Module</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>How to complete CAPA for audit</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This guidebook introduces the ECOS Audit module, and provides guidance
+to Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site
+PI)/ Co-Investigator (Co-I) and Study Team Member (STM)&nbsp;on how to
+navigate the module.</p>
+<p>(Last updated: 20 December 2024)</p>
+<p><a href="/files/User Guides/compliance_audit.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a>
+</p>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
