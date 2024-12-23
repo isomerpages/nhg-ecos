@@ -245,7 +245,7 @@ navigate the module.</p>
 <details class="isomer-details">
 <summary>ECOS Audit module</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This guidebook introduces the ECOS Audit module, and provides guidance
+<p>This guidebook introduces the ECOS Audit module and provides guidance
 to Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site
 PI)/ Co-Investigator (Co-I) and Study Team Member (STM)&nbsp;on how to
 navigate the module.</p>
