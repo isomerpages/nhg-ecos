@@ -238,7 +238,7 @@ to Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site
 PI)/ Co-Investigator (Co-I) and Study Team Member (STM)&nbsp;on how to
 navigate the module.</p>
 <p>(Last updated: 9 December 2024)</p>
-<p><strong><a href="/files/User Guides/PISAF &amp; SCC/ecos_user_guide_monitoring_module_6dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a></strong>
+<p><a href="/files/User Guides/PISAF &amp; SCC/ecos_user_guide_monitoring_module_6dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a>
 </p>
 </div>
 </details>
