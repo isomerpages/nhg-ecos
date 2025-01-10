@@ -16,9 +16,10 @@ contacts:
     title: For SingHealth Staff *
   - content:
       - phone: ""
-      - email: ITDHELP@nuhs.edu.sg
-      - other: ""
-    title: For NUHS Staff *
+      - email: crio@ttsh.com.sg
+      - other: For business process-related issues, such as IR/DR endorsement re-routing
+          and issuance of minimum training labels.
+    title: For TTSH Staff *
   - content:
       - phone: ""
       - email: ""
@@ -30,6 +31,11 @@ contacts:
           Form to your Institution ITD Helpdesk to log an ECOS Support
           Request.</p>
     title: "* IMPORTANT"
+  - content:
+      - phone: ""
+      - email: ITDHELP@nuhs.edu.sg
+      - other: ""
+    title: For NUHS Staff *
   - content:
       - phone: ""
       - email: ""
