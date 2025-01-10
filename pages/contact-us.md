@@ -46,11 +46,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
-    title: .
-  - content:
-      - phone: ""
-      - email: ""
       - other: Monday to Friday <br>(Closed on Public Holidays)<p></p>  <p>9am – 1pm
           <br>2pm - 5pm</p>
     title: ECOS Helpdesk Operating Hours
