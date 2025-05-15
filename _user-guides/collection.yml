@@ -2,5 +2,5 @@ collections:
   user-guides:
     output: true
     order:
-      - How to Series.md
       - User Guides.md
+      - How to Series.md
