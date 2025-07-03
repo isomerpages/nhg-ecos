@@ -92,7 +92,7 @@ their IRB Application Form. (Last updated: 1 March 2024)</p>
 points to make your responses effective and impactful. (Last updated: 04
 July 2025)</p>
 <p></p>
-<p><a href="/files/User Guides/IRB Ethics Submissions/Mastering_IRB_Submissions___Key_Points_to_Note_for_Effective_Response_4Jul2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/IRB Ethics Submissions/mastering_irb_submissions_for_effective_response_4jul2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </div>
 </details>
