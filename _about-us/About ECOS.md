@@ -54,7 +54,16 @@ related activities.
 <p>Audit Module</p>
 </li>
 </ul>
-<p>
+<h4><strong>ECOS End-User Support Portal</strong></h4>
+<p>The <strong>ECOS End-User Support Portal</strong> is intended to provide
+the <strong>National Healthcare Group (NHG)</strong> and <strong>National University Health System (NUHS)</strong> Research
+Communities, our Partner Institutions and Industry collaborators, with
+pertinent information about the ECOS system, and how researchers may use
+the ECOS System to prepare and submit their research ethics applications
+to the <strong>NHG Domain Specific Review Board (DSRB)</strong>.</p>
+<p>All ECOS-related Announcements, News and User Guides will be available
+here on this&nbsp;website. You can also use the Search Function (found
+on the page's top-right corner) to locate the information you need.
 <br>
 </p>
 <p></p>
