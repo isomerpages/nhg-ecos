@@ -94,6 +94,9 @@ July 2025)</p>
 <p></p>
 <p><a href="/files/User Guides/IRB Ethics Submissions/mastering_irb_submissions_for_effective_response_4jul2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
+<p><em>Note: To access the jumplinks within the PDF, click on 'Download Original' when downloading.</em>
+</p>
+<p>&nbsp;</p>
 </div>
 </details>
 </div>
