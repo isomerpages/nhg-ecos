@@ -6,8 +6,8 @@ links:
     resource_room: true
   - title: FAQs
     url: /faqs/
-  - title: ECOS Guides
-    url: /userguides/
+  - title: Resources
+    collection: resources
   - title: Training
     url: /training/
   - title: Helpdesk
