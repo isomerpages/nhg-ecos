@@ -7,7 +7,7 @@ links:
   - title: FAQs
     url: /faqs/
   - title: Resources
-    url: /Resources/
+    collection: resources
   - title: Training
     url: /training/
   - title: Helpdesk
