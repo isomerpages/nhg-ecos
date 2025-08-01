@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - User Guides.md
+      - How To Series.md
