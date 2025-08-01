@@ -1,5 +1,5 @@
 collections:
-  user-resources:
+  resources:
     output: true
     order:
       - User Guides.md
