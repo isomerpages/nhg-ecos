@@ -4,7 +4,7 @@ permalink: /how-to-series/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Introduction to How To (“Quick Tip) Series.</strong></h2>
+<h2><strong>Introduction to How To “Quick Tip" Series.</strong></h2>
 <p>The ECOS How To Series aims to clarify common challenges in the submission
 process and provide strategies to enhance research applications.</p>
 <p>Do check back regularly for updates and new additions.</p>
@@ -68,13 +68,5 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 </details>
 </div>
 <h3><strong>Ace Your IRB Application</strong></h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Coming soon</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<h4></h4>
-<p></p>
+<p><a href="/files/How to Series/ECOS_How_to_Ace_Your_Submissions_1Aug25_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
