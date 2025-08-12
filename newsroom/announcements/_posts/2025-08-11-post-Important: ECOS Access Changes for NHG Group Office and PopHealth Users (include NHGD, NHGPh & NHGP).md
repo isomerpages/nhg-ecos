@@ -36,7 +36,7 @@ transition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Complete all pending transactions if possible before, 14 August, 6pm</p>
+<p>Complete all pending transactions if possible before 14 August, 6pm</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For applications planned for September 2025 Full Board review: ensure
