@@ -4,9 +4,9 @@ permalink: /userguides/
 variant: tiptap
 description: ""
 ---
-<p>These ECOS User Guides are intended to assist and guide the NHG &amp;
-NUHS Research Communities, our Partner Institutions and Industry Partners
-when they are using the ECOS system.</p>
+<p>These ECOS User Guides are intended to assist and guide the NHG Health
+&amp; NUHS Research Communities, our Partner Institutions and Industry
+Partners when they are using the ECOS system.</p>
 <p>You can also use the Search Function (found on the page's top-right corner)
 to locate the information you need.</p>
 <p>Do check back regularly for updates and new additions.</p>
@@ -18,8 +18,8 @@ to locate the information you need.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This guidebook shows how new Public Healthcare Institutions (PHI) Users
 can login and create their ECOS User Accounts. It also provides information
-on the NHG Minimum Training requirements and orientates Users to the ECOS
-interface and layout. (Last updated: 7 May 2024)</p>
+on the NHG Health Minimum Training requirements and orientates Users to
+the ECOS interface and layout. (Last updated: 7 May 2024)</p>
 <p><a href="/files/User Guides/General ECOS Functionality/ECOS_Creating_New_User_Accounts___General_Overview_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
@@ -111,7 +111,7 @@ Study Sponsor, etc). (Last updated: 21 May 2024)</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Responding to the NHG Research Institution for Deviation/ Non-Compliance &amp; Serious Adverse Events from HBR Studies</strong></h4>
+<h4><strong>Responding to the NHG Health Research Institution for Deviation/ Non-Compliance &amp; Serious Adverse Events from HBR Studies</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>How to manage DNC &amp; SAE from HBR Studies</summary>
@@ -135,8 +135,8 @@ the submission of an SDB application and navigation of the module.</p>
 <p>B. For Endorsers (ROC/DR/IR) – This guide provides endorsers with step-by-step
 guidance on the endorsement of an SDB application and navigation of the
 module.</p>
-<p>These guides are only applicable to NHG and NUHS users (Last update on
-25 October 2024).</p>
+<p>These guides are only applicable to NHG Health and NUHS users (Last update
+on 25 October 2024).</p>
 <p>For Users – <a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
 <p>For Endorsers (RDOC/DR/IR) – <a href="/files/User Guides/SDB/ECOS_Training___SDB_Module_Endorser.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
 <p></p>
