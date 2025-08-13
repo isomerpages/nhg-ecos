@@ -8,7 +8,7 @@ contacts:
       - phone: ""
       - email: ITDHELP@nhg.com.sg
       - other: ""
-    title: For NHG Staff *
+    title: For NHG Health Staff *
   - content:
       - phone: ""
       - email: it.helpdesk@singhealth.com.sg
