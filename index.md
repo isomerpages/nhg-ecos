@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ECOS End-User Support Portal for NHG Research Community
+      title: ECOS User Support Portal for NHG Health Research Community
       background: /images/Hero Banner Images/Fabric_of_Life_Design.png
       variant: center
       backgroundColor: gray
