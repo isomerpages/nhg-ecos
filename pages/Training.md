@@ -8,7 +8,8 @@ description: ""
 <p>Organized by the NHG Office of Human Research Protection Programme (OHRPP),
 the ECOS Onboarding Training Webinars are intended to introduce new Ethics
 &amp; Compliance Online System (ECOS) and its various functionalities to
-the NHG Research Community, our Partner Institutions and Industry Partners.</p>
+the NHG Health Research Community, our Partner Institutions and Industry
+Partners.</p>
 <h4><strong>Webinar Synopsis</strong></h4>
 <p>The ECOS Onboarding Training Webinars will introduce participants to the
 new Ethics &amp; Compliance Online System (ECOS) and its key functionalities.
@@ -29,7 +30,7 @@ session.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Training/ECOS_How_to_access_ECOS_Webinar_Recording_on_NHG_eLearn.pdf" rel="noopener noreferrer nofollow" target="_blank">Download a Guide to how NHG Staff can access the ECOS Webinar Recording</a>
+<p><a href="/files/Training/ECOS_How_to_access_ECOS_Webinar_Recording_on_NHG_eLearn.pdf" rel="noopener noreferrer nofollow" target="_blank">Download a Guide to how NHG Health Staff can access the ECOS Webinar Recording</a>
 </p>
 </li>
 </ul>
