@@ -18,7 +18,7 @@ ECOS studies using your (old) ECOS user account.</p>
 <li>
 <p>Our ECOS system vendor will be migrating your ECOS user accounts to the
 new @<a rel="noopener noreferrer nofollow" target="_blank">nhghealth.com.sg</a>&nbsp;domain.
-This transit will happen on 21 August 2025 (tonight).</p>
+This transit will happen on <strong>21 August 2025</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>From 21 August 7pm (tonight) till 22 August 5pm</strong> - &nbsp;Please
