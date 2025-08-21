@@ -7,14 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Important: ECOS Access Changes for TTSH and NCID Users</strong>
-</p>
 <p>Please note that there will be ECOS access changes to TTSH and NCID users
 due to OneNHG Email Domain Change.&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>From 22 August 2025</strong>, you can no longer access your existing
-ECOS studies using your (old) ECOS user account.</p>
+ECOS studies using your (old) ECOS user account.
+<br>
+</p>
 </li>
 <li>
 <p>Our ECOS system vendor will be migrating your ECOS user accounts to the
@@ -23,15 +23,15 @@ This transit will happen tonight.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>From 21 August 7pm (tonight) till 22 August 5pm</strong> - &nbsp;please
-avoid login to ECOS to ensure a smooth transition.</p>
+avoid login to ECOS to ensure a smooth transition.
+<br>
+</p>
 </li>
 </ul>
 </li>
 <li>
 <p><strong>On 22 August 2025 (tomorrow)</strong>, you may access ECOS using
 your (new) NHG Health email.</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>All user roles and access permissions will remain unchanged</p>
@@ -42,6 +42,8 @@ your (new) NHG Health email.</p>
 <li>
 <p>Report any access issues to ECOS Support at <a rel="noopener noreferrer nofollow" target="_blank">synapxe.ecossupport@synapxe.sg</a>
 </p>
+</li>
+</ul>
 </li>
 </ul>
 <p>We truly appreciate the understanding and help from you to work through
