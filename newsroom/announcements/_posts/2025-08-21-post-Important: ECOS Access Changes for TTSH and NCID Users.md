@@ -22,7 +22,7 @@ new @<a rel="noopener noreferrer nofollow" target="_blank">nhghealth.com.sg</a>&
 This transit will happen tonight.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>From 21 August 7pm (tonight) till 22 August 5pm</strong> - &nbsp;please
+<p><strong>From 21 August 7pm (tonight) till 22 August 5am</strong> - &nbsp;please
 avoid login to ECOS to ensure a smooth transition.
 <br>
 </p>
