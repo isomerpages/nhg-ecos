@@ -5,14 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>ECOS Frequently Asked Questions</strong></h4>
-<p>The ECOS FAQ document is regularly updated with latest information as
-they become available.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Download the ECOS FAQ doc #17 <a href="/files/FAQ/ECOS_Launch_FAQ__17_23_Dec_24_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> (Last
-updated 23 Dec 2024)</p>
-</li>
-</ul>
-<p>We recommend that you check back here regularly to obtain the latest version
-available.</p>
+<p>The ECOS FAQ document is currently being updated and will be made available
+at a later date.</p>
 <p></p>
