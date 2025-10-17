@@ -45,8 +45,8 @@ contacts:
     title: For SingHealth Staff *
   - content:
       - phone: ""
-      - email: ""
-      - other: "Ms Qiu Shijia: qiu.shijia@geri.com.sg"
+      - email: qiu.shijia@geri.com.sg
+      - other: Ms Qiu Shijia
     title: GERI Research Office
   - content:
       - phone: ""
