@@ -4,7 +4,9 @@ title: ECOS End-User Support Portal for NHG Research Community
 description: A National Healthcare Group (NHG) site built with Isomer
 image: /images/ECOS Logo/NHG_Favicon.png
 permalink: /
-notification: ""
+notification: Public Healthcare Institutions will NEVER ask you to transfer
+  money over a phone call. Call the 24/7 ScamShield helpline at 1799 to check,
+  if you suspect a call to be a scam
 sections:
   - hero:
       title: ECOS User Support Portal for NHG Health Research Community
