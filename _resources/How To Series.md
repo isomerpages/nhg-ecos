@@ -68,5 +68,5 @@ Study Sites in ECOS by using the ECOS Clinical Research Management System
 </details>
 </div>
 <h3><strong>Ace Your IRB Application</strong></h3>
-<p><a href="/files/How to Series/ECOS_Series_How_to_Ace_Your_IRB_Submissions_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/How to Series/ecos_series_how_to_ace_your_irb_submissions.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
