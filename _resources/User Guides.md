@@ -16,10 +16,13 @@ to locate the information you need.</p>
 <details class="isomer-details">
 <summary>ECOS Quick Start Guide &amp; General Overview</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This guidebook shows how new Public Healthcare Institutions (PHI) Users
-can login and create their ECOS User Accounts. It also provides information
-on the NHG Health Minimum Training requirements and orientates Users to
-the ECOS interface and layout. (Last updated: 7 May 2024)</p>
+<p>This quick start guidebook covers key topics for new Public Healthcare
+Institutions (PHI) Users, including how to create ECOS user accounts, complete
+minimum training requirements, declare Financial Conflict of Interest (FCOI),
+navigate the ECOS interface, and submit Institutional Review Board (IRB)
+applications.</p>
+<p>(Last updated: 26 Dec 2025)</p>
+<p></p>
 <p><a href="/files/User Guides/General ECOS Functionality/ECOS_Creating_New_User_Accounts___General_Overview_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
