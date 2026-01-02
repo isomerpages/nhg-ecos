@@ -23,7 +23,7 @@ navigate the ECOS interface, and submit Institutional Review Board (IRB)
 applications.</p>
 <p>(Last updated: 26 Dec 2025)</p>
 <p></p>
-<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Creating_New_User_Accounts___General_Overview_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/General ECOS Functionality/Quick_Start_Guide_Ver1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
