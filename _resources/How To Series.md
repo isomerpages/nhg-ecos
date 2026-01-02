@@ -50,7 +50,7 @@ List (UAL) in the ECOS Clinical Research Management System (CRMS) module
 <p>This quick guide explains how the current Team Members can add new Team
 Members via the Study’s User Authorization List (UAL) in the ECOS Clinical
 Research Management System (CRMS) module. (Last updated 24 June 2024)</p>
-<p><a href="/files/How to Series/How_to_Add_and_Endorse_New_Study_Team_Members_in_ECOS_8Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/How to Series/How_to_Access_Different_Modules_on_ECOS_9Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
