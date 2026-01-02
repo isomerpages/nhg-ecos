@@ -25,7 +25,7 @@ Declaration requirements. (Last updated: 13 August 2024)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick guide explains how researchers can access different modules
 on ECOS. (Last updated: 8 Dec 2025)</p>
-<p><a href="/files/How to Series/How_to_Access_Different_Modules_on_ECOS_9Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here.</a>
+<p><a href="/files/How to Series/How_to_Access_Different_Modules_on_ECOS_9Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </div>
 </details>
