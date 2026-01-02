@@ -14,7 +14,7 @@ to locate the information you need.</p>
 <h4><strong>General ECOS Functionality &amp; Overview</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Creating New User Accounts &amp; General Overview</summary>
+<summary>ECOS Quick Start Guide &amp; General Overview</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This guidebook shows how new Public Healthcare Institutions (PHI) Users
 can login and create their ECOS User Accounts. It also provides information
