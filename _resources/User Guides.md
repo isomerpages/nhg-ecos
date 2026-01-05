@@ -60,8 +60,8 @@ to queries from the FCOI Secretariat. (Last updated: 26 Dec 2025)</p>
 <p>This Guidebook provides an overview and user-orientation to the Institutional
 Review Board (IRB) Module. It explains the IRB submission process for new
 Study Submissions and for the various reporting Forms for approved active
-studies. (Last updated 9 May 2024)</p>
-<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_Overview_of_IRB_Ethics_Submissions_9_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+studies. (Last updated: 26 Dec 2025)</p>
+<p><a href="/files/User Guides/IRB Ethics Submissions/UserGuide_IRB_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -81,10 +81,10 @@ their IRB Application Form. (Last updated: 29 August 2025)</p>
 <summary>Mastering IRB Submissions – Key Points to Note for Effective Response</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The detailed guide outlines the process step by step, emphasizing crucial
-points to make your responses effective and impactful. (Last updated: 04
-July 2025)</p>
+points to make your responses effective and impactful. (Last updated: 26
+Dec 2025)</p>
 <p></p>
-<p><a href="/files/User Guides/IRB Ethics Submissions/mastering_irb_submissions_for_effective_response_4jul2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/IRB Ethics Submissions/Mastering_IRB_Submissions_for_Effective_Response_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p><em>Note: To access the jumplinks within the PDF, click on 'Download Original' when downloading.</em>
 </p>
