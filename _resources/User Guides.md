@@ -120,8 +120,8 @@ Study Sponsor, etc). (Last updated: 26 Dec 2025)</p>
 <summary>How to manage DNC &amp; SAE from HBR Studies</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This guidebook provides Users with a step-by-step guidance to help users
-navigate the module. (Last updated 1 August 2024)</p>
-<p><a href="/files/User Guides/Deviation Non Compliance SAE/ECOS_Submitting_Non_Compliance_Events_1_August_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+navigate the module. (Last updated 26 Dec 2025)</p>
+<p><a href="/files/User Guides/Deviation Non Compliance SAE/UserGuide_Compliance_DNC_SAE_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -139,9 +139,11 @@ the submission of an SDB application and navigation of the module.</p>
 guidance on the endorsement of an SDB application and navigation of the
 module.</p>
 <p>These guides are only applicable to NHG Health and NUHS users (Last update
-on 25 October 2024).</p>
-<p>For Users – <a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
-<p>For Endorsers (RDOC/DR/IR) – <a href="/files/User Guides/SDB/ECOS_Training___SDB_Module_Endorser.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
+on 26 Dec 2025).</p>
+<p>For Users – <a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
+<p>For Endorsers (RDOC/DR/IR) – <a href="/files/User Guides/SDB/ECOS_Training___SDB_Module_Endorser.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
