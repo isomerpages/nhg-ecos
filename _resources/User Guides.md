@@ -106,8 +106,8 @@ Site, Study and Institutional level.</p>
 respective clinical research projects and activities, including managing
 the User Authorization List which controls user access to CRMS, IRB and
 other modules for Study Team Roles (ie: Study Administrators, Collaborators,
-Study Sponsor, etc). (Last updated: 21 May 2024)</p>
-<p><a href="/files/User Guides/Managing Research Activity/ECOS_User_Guide_CRMS_Module_Ver_2_21May24.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+Study Sponsor, etc). (Last updated: 26 Dec 2025)</p>
+<p><a href="/files/User Guides/Managing Research Activity/UserGuide_CRMS_Module_Ver3_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
