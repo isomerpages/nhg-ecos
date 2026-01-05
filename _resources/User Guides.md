@@ -33,7 +33,7 @@ applications.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This guidebook will show ECOS Users how to access the Minimum Training
 Module to upload their training certificates into their User Profile. (Last
-updated: 7 May 2024)</p>
+updated: 26 Dec 2025)</p>
 <p><a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_Min_Training_Certs_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
