@@ -140,9 +140,9 @@ guidance on the endorsement of an SDB application and navigation of the
 module.</p>
 <p>These guides are only applicable to NHG Health and NUHS users (Last update
 on 26 Dec 2025).</p>
-<p>For Users – <a href="/files/User Guides/SDB/SDB_Module_User_Guide___NHG_Only__Custodian_DTM.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p>For Users – <a href="/files/User Guides/SDB/UserGuide_SDB_Module_NHG_Health_Only_Custodian_DTM_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
-<p>For Endorsers (RDOC/DR/IR) – <a href="/files/User Guides/SDB/ECOS_Training___SDB_Module_Endorser.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p>For Endorsers (RDOC/DR/IR) – <a href="/files/User Guides/SDB/UserGuide_SDB_Module_NHG_Health_Only_Endorser_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 <p></p>
