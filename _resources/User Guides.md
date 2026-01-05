@@ -170,8 +170,8 @@ Form (SRF). (Last updated 10 October 2024)</p>
 <p>This guidebook is intended for ECOS Users who are appointed as Institution
 or Department Representatives (IR &amp; DR). It provides information and
 a step-by-step guide on the IR &amp; DR Ethics Submission Endorsement process.
-(Last updated 7 May 2024)</p>
-<p><a href="/files/User Guides/Dept and Inst Rep/ECOS_DR___IR_Endorsement_Process_Guide_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+(Last updated 26 Dec 2025)</p>
+<p><a href="/files/User Guides/Dept and Inst Rep/UserGuide_DR_IR_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </div>
 </details>
