@@ -38,8 +38,8 @@ on ECOS. (Last updated: 8 Dec 2025)</p>
 <p>This quick guide explains how a Principal Investigator (PI) can add and
 endorse/approve new Study Team Members via the Study’s User Authorization
 List (UAL) in the ECOS Clinical Research Management System (CRMS) module
-(Last updated: 8 Dec 2025)</p>
-<p><a href="/files/How to Series/How_to_Add_New_Study_Team_Members_to_your_Study_on_ECOS_8Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+(Last updated: 7 June 2024)</p>
+<p><a href="/files/User Guides/Managing Research Activity/ECOS_Adding_new_Study_Team_Members_7_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
