@@ -32,8 +32,8 @@ applications.</p>
 <summary>Submitting Minimum Training Certification</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This guidebook will show ECOS Users how to access the Minimum Training
-Module to upload their training certificates into their User Profile. (Last
-updated: 26 Dec 2025)</p>
+Certificate Section to upload their training certificates into their User
+Profile to obtain ECOS Label for research. (Last updated: 26 Dec 2025)</p>
 <p><a href="/files/User Guides/General ECOS Functionality/UserGuide_Min_Training_Module_Ver2_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
