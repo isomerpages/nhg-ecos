@@ -25,7 +25,7 @@ Declaration requirements. (Last updated: 13 August 2024)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick guide explains how researchers can access different modules
 on ECOS. (Last updated: 18 Sep 2024)</p>
-<p><a href="/files/Announcement Files/ECOS_How_to_Access_Different_Modules_on_ECOS_17_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here.</a>
+<p><a href="/files/How to Series/ECOS_How_to_Access_Different_Modules_on_ECOS_17_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </div>
 </details>
@@ -49,7 +49,7 @@ List (UAL) in the ECOS Clinical Research Management System (CRMS) module
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick guide explains how the current Team Members can add new Team
 Members via the Study’s User Authorization List (UAL) in the ECOS Clinical
-Research Management System (CRMS) module. (Last updated 24 June 2024)</p>
+Research Management System (CRMS) module. (Last updated: 24 June 2024)</p>
 <p><a href="/files/User Guides/Managing Research Activity/ECOS_How_to_Endorse_New_Study_Team_Members_24_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
