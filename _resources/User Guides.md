@@ -34,7 +34,7 @@ applications.</p>
 <p>This guidebook will show ECOS Users how to access the Minimum Training
 Module to upload their training certificates into their User Profile. (Last
 updated: 26 Dec 2025)</p>
-<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_Min_Training_Certs_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/General ECOS Functionality/UserGuide_Min_Training_Module_Ver2_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -45,7 +45,7 @@ updated: 26 Dec 2025)</p>
 <p>This guidebook introduces the Financial Conflict of Interest (FCOI) Module
 and shows how Users can submit their FCOI Declarations as well as responding
 to queries from the FCOI Secretariat. (Last updated: 26 Dec 2025)</p>
-<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Submitting_FCOI_Declarations_7_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/General ECOS Functionality/UserGuide_FCOI_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
