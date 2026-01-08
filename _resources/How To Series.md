@@ -15,8 +15,8 @@ process and provide strategies to enhance research applications.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick guide explains how to successfully prepare for an IRB submission,
 in particular, by looking at the User Profiles, Minimum Training and FCOI
-Declaration requirements. (Last updated: 13 August 2024)</p>
-<p><a href="/files/User Guides/IRB Ethics Submissions/ECOS_How_to_Prepare_for_IRB_Submissions_16_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+Declaration requirements. (Last updated: 8 Jan 2026)</p>
+<p><a href="/files/How to Series/How_to_prepare_for_IRB_Ethics_Submissions_9Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </div>
 </details>
@@ -24,8 +24,8 @@ Declaration requirements. (Last updated: 13 August 2024)</p>
 <summary>How to Access Different Modules on ECOS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick guide explains how researchers can access different modules
-on ECOS. (Last updated: 18 Sep 2024)</p>
-<p><a href="/files/How to Series/ECOS_How_to_Access_Different_Modules_on_ECOS_17_Sep_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+on ECOS. (Last updated: 8 Jan 2026)</p>
+<p><a href="/files/How to Series/How_to_Access_Different_Modules_on_ECOS_8Jan26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </div>
 </details>
@@ -38,8 +38,8 @@ on ECOS. (Last updated: 18 Sep 2024)</p>
 <p>This quick guide explains how a Principal Investigator (PI) can add and
 endorse/approve new Study Team Members via the Study’s User Authorization
 List (UAL) in the ECOS Clinical Research Management System (CRMS) module
-(Last updated: 7 June 2024)</p>
-<p><a href="/files/User Guides/Managing Research Activity/ECOS_Adding_new_Study_Team_Members_7_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+(Last updated: 8 Jan 2026)</p>
+<p><a href="/files/How to Series/how_to_add_new_study_team_members_to_your_study_on_ecos_9dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -49,8 +49,8 @@ List (UAL) in the ECOS Clinical Research Management System (CRMS) module
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick guide explains how the current Team Members can add new Team
 Members via the Study’s User Authorization List (UAL) in the ECOS Clinical
-Research Management System (CRMS) module. (Last updated: 24 June 2024)</p>
-<p><a href="/files/User Guides/Managing Research Activity/ECOS_How_to_Endorse_New_Study_Team_Members_24_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+Research Management System (CRMS) module. (Last updated: 8 Jan 2026)</p>
+<p><a href="/files/How to Series/how_to_add_and_endorse_new_study_team_members_in_ecos_9dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -60,8 +60,8 @@ Research Management System (CRMS) module. (Last updated: 24 June 2024)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick guide explains how researchers can set up and manage multiple
 Study Sites in ECOS by using the ECOS Clinical Research Management System
-(CRMS) module (Last updated: 22 July 2024)</p>
-<p><a href="/files/User Guides/Managing Research Activity/ECOS_Managing_Multi_Site_Studies_22_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+(CRMS) module (Last updated: 8 Jan 2026)</p>
+<p><a href="/files/How to Series/how_to_manage_multi_site_studies_in_ecos_9dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
