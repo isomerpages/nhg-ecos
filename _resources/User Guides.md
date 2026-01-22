@@ -33,7 +33,7 @@ Review Board (IRB) applications.</p>
 <p>This guidebook will show ECOS Users how to access the Minimum Training
 Certificate Section to upload their training certificates into their User
 Profile to obtain ECOS Label for research. (Last updated: 16 January 2026)</p>
-<p><a href="/files/User Guides/General ECOS Functionality/ECOS_User_Guide___Min_Training_Module_Ver_2_1_16_Jan_26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/General ECOS Functionality/userguide_min_training_module_ver2_1_16jan26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
