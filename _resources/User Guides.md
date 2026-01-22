@@ -17,13 +17,12 @@ to locate the information you need.</p>
 <summary>ECOS Quick Start Guide &amp; General Overview</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This quick start guidebook covers key topics for new Public Healthcare
-Institutions (PHI) Users, including how to create ECOS user accounts, complete
-minimum training requirements, declare Financial Conflict of Interest (FCOI),
-navigate the ECOS interface, and submit Institutional Review Board (IRB)
-applications.</p>
-<p>(Last updated: 26 Dec 2025)</p>
-<p></p>
-<p><a href="/files/User Guides/General ECOS Functionality/Quick_Start_Guide_Ver1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+Institutions (PHI) &amp; non-PHI Users, including how to create ECOS user
+accounts, complete minimum training requirements, declare Financial Conflict
+of Interest (FCOI), navigate the ECOS interface, and submit Institutional
+Review Board (IRB) applications.</p>
+<p>(Last updated: 16 January 2026)</p>
+<p><a href="/files/User Guides/General ECOS Functionality/quick_start_guide_ver1_1_16jan26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -33,8 +32,8 @@ applications.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This guidebook will show ECOS Users how to access the Minimum Training
 Certificate Section to upload their training certificates into their User
-Profile to obtain ECOS Label for research. (Last updated: 26 Dec 2025)</p>
-<p><a href="/files/User Guides/General ECOS Functionality/UserGuide_Min_Training_Module_Ver2_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+Profile to obtain ECOS Label for research. (Last updated: 16 January 2026)</p>
+<p><a href="/files/User Guides/General ECOS Functionality/userguide_min_training_module_ver2_1_16jan26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
