@@ -22,7 +22,7 @@ accounts, complete minimum training requirements, declare Financial Conflict
 of Interest (FCOI), navigate the ECOS interface, and submit Institutional
 Review Board (IRB) applications.</p>
 <p>(Last updated: 16 January 2026)</p>
-<p><a href="/files/User Guides/General ECOS Functionality/ECOS_Quick_Start_Guide_Ver_1_1_16_Jan_26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/General ECOS Functionality/quick_start_guide_ver1_1_16jan26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
