@@ -85,7 +85,7 @@ contacts:
       - phone: ""
       - email: wh.WORDS@nhghealth.com.sg
       - other: ""
-    title: Woodlands Health (WH) Research Office
+    title: Woodlands Hospital (WH) Research Office
   - content:
       - phone: ""
       - email: pophealth.ocg@nhghealth.com.sg
