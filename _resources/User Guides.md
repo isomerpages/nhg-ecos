@@ -106,7 +106,7 @@ respective clinical research projects and activities, including managing
 the User Authorization List which controls user access to CRMS, IRB and
 other modules for Study Team Roles (ie: Study Administrators, Collaborators,
 Study Sponsor, etc). (Last updated: 26 Dec 2025)</p>
-<p><a href="https://for.sg/userguide-crms-module-ver3-26dec25" rel="noopener nofollow" target="_blank">Download here</a>
+<p><a href="https://for.sg/userguide-crms-module-ver3-24mar26" rel="noopener nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
