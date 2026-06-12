@@ -60,7 +60,7 @@ to queries from the FCOI Secretariat. (Last updated: 26 Dec 2025)</p>
 Review Board (IRB) Module. It explains the IRB submission process for new
 Study Submissions and for the various reporting Forms for approved active
 studies. (Last updated: 26 Dec 2025)</p>
-<p><a href="/files/User Guides/IRB Ethics Submissions/UserGuide_IRB_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/Mask Study Ref/ECOS_UserGuide_IRB_Ver1_2_24_Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
