@@ -186,9 +186,9 @@ and Study Team Members to navigate the module interface and to complete
 the submission process for the PISAF/ SCC on ECOS Compliance module.</p>
 <p>Only selected PIs will be informed to complete the PISAF/SCC.</p>
 <p>(Last updated: 26 Dec 2025)</p>
-<p><a href="/files/User Guides/PISAF &amp; SCC/UserGuide_Compliance_PISAF_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF - Download here</a>
+<p><a href="/files/User Guides/Mask Study Ref/ECOS_UserGuide_Compliance_PISAF_Ver1_2_24Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF - Download here</a>
 </p>
-<p><a href="/files/User Guides/PISAF &amp; SCC/UserGuide_Compliance_PISAF_SCC_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC - Download here</a>
+<p><a href="/files/User Guides/Mask Study Ref/ECOS_UserGuide_Compliance_PISAF_SCC_Ver1_2_24Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC - Download here</a>
 </p>
 <p></p>
 <p></p>
