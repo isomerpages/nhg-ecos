@@ -201,7 +201,7 @@ the submission process for the PISAF/ SCC on ECOS Compliance module.</p>
 to Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site
 PI)/ Co-Investigator (Co-I) and Study Team Member (STM)&nbsp;on how to
 navigate the module.</p>
-<p>(Last updated: 26 Dec 2025)</p>
+<p>(Last updated: 24 March 2026)</p>
 <p><a href="/files/User Guides/Mask Study Ref/ECOS_UserGuide_Monitoring_Ver1_2_24Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a>
 </p>
 </div>
