@@ -21,7 +21,7 @@ Institutions (PHI) &amp; non-PHI Users, including how to create ECOS user
 accounts, complete minimum training requirements, declare Financial Conflict
 of Interest (FCOI), navigate the ECOS interface, and submit Institutional
 Review Board (IRB) applications.</p>
-<p>(Last updated: 16 January 2026)</p>
+<p>(Last updated: 24 March 2026)</p>
 <p><a href="/files/User Guides/Mask Study Ref/ECOS_Quick_Start_Guide_Ver1_2_24Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
