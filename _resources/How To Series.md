@@ -16,7 +16,7 @@ process and provide strategies to enhance research applications.</p>
 <p>This quick guide explains how to successfully prepare for an IRB submission,
 in particular, by looking at the User Profiles, Minimum Training and FCOI
 Declaration requirements. (Last updated: 8 Jan 2026)</p>
-<p><a href="/files/How to Series/How_to_prepare_for_IRB_Ethics_Submissions_9Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/How to Series/How_to_prepare_for_IRB_Ethics_Submissions_09Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </div>
 </details>

@@ -21,8 +21,8 @@ Institutions (PHI) &amp; non-PHI Users, including how to create ECOS user
 accounts, complete minimum training requirements, declare Financial Conflict
 of Interest (FCOI), navigate the ECOS interface, and submit Institutional
 Review Board (IRB) applications.</p>
-<p>(Last updated: 16 January 2026)</p>
-<p><a href="/files/User Guides/General ECOS Functionality/quick_start_guide_ver1_1_16jan26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p>(Last updated: 24 March 2026)</p>
+<p><a href="/files/User Guides/Mask Study Ref/ECOS_Quick_Start_Guide_Ver1_2_24Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -59,8 +59,8 @@ to queries from the FCOI Secretariat. (Last updated: 26 Dec 2025)</p>
 <p>This Guidebook provides an overview and user-orientation to the Institutional
 Review Board (IRB) Module. It explains the IRB submission process for new
 Study Submissions and for the various reporting Forms for approved active
-studies. (Last updated: 26 Dec 2025)</p>
-<p><a href="/files/User Guides/IRB Ethics Submissions/UserGuide_IRB_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+studies. (Last updated: 24 March 2026)</p>
+<p><a href="/files/User Guides/Mask Study Ref/ECOS_UserGuide_IRB_Ver1_2_24_Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -105,8 +105,8 @@ Site, Study and Institutional level.</p>
 respective clinical research projects and activities, including managing
 the User Authorization List which controls user access to CRMS, IRB and
 other modules for Study Team Roles (ie: Study Administrators, Collaborators,
-Study Sponsor, etc). (Last updated: 26 Dec 2025)</p>
-<p><a href="https://for.sg/userguide-crms-module-ver3-26dec25" rel="noopener nofollow" target="_blank">Download here</a>
+Study Sponsor, etc). (Last updated: 24 March 2026)</p>
+<p><a href="https://for.sg/userguide-crms-module-ver3-24mar26" rel="noopener nofollow" target="_blank">Download here</a>
 </p>
 <p></p>
 </div>
@@ -185,10 +185,10 @@ a step-by-step guide on the IR &amp; DR Ethics Submission Endorsement process.
 and Study Team Members to navigate the module interface and to complete
 the submission process for the PISAF/ SCC on ECOS Compliance module.</p>
 <p>Only selected PIs will be informed to complete the PISAF/SCC.</p>
-<p>(Last updated: 26 Dec 2025)</p>
-<p><a href="/files/User Guides/PISAF &amp; SCC/UserGuide_Compliance_PISAF_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF - Download here</a>
+<p>(Last updated: 24 March 2026)</p>
+<p><a href="/files/User Guides/Mask Study Ref/ECOS_UserGuide_Compliance_PISAF_Ver1_2_24Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF - Download here</a>
 </p>
-<p><a href="/files/User Guides/PISAF &amp; SCC/UserGuide_Compliance_PISAF_SCC_Module_Ver1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC - Download here</a>
+<p><a href="/files/User Guides/Mask Study Ref/ECOS_UserGuide_Compliance_PISAF_SCC_Ver1_2_24Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC - Download here</a>
 </p>
 <p></p>
 <p></p>
@@ -201,8 +201,8 @@ the submission process for the PISAF/ SCC on ECOS Compliance module.</p>
 to Principal Investigator&nbsp;(PI) / Site Principal Investigator (Site
 PI)/ Co-Investigator (Co-I) and Study Team Member (STM)&nbsp;on how to
 navigate the module.</p>
-<p>(Last updated: 26 Dec 2025)</p>
-<p><a href="/files/User Guides/PISAF &amp; SCC/UserGuide_Monitoring_Module_Ver_1_1_26Dec25.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a>
+<p>(Last updated: 24 March 2026)</p>
+<p><a href="/files/User Guides/Mask Study Ref/ECOS_UserGuide_Monitoring_Ver1_2_24Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Here</a>
 </p>
 </div>
 </details>
