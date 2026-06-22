@@ -54,7 +54,7 @@ to queries from the FCOI Secretariat. (Last updated: 26 Dec 2025)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Step-by-step guide to enable your passwordless login on ECOS.</p>
 <p>(Last updated: 18 June 2026)</p>
-<p><a href="/files/User Guides/ECOS___User_Guide_to_Passwordless_Login.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
+<p><a href="/files/User Guides/ecos_user_guide_to_passwordless_login.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
 </p>
 </div>
 </details>
