@@ -49,6 +49,12 @@ to queries from the FCOI Secretariat. (Last updated: 26 Dec 2025)</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>ECOS – User Guide to Passwordless Sign-In</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <h4><strong>IRB Ethics Submissions</strong></h4>
